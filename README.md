@@ -32,6 +32,7 @@ https://jusungpark.tistory.com/24 <br/>
 (7) 동기화 프록시(여러 스레드에서 주 객체에 접근하는 경우 안전하게 작업을 처리하게 해준다.)<br/>
 (8) 복잡도 숨김 프록시(퍼사드 패턴이 단순히 인터페이스만 제공하는 것에 비해 복잡도 숨김 프록시는 접근을 제어한다.)<br/>
 (9) 지연 복사 프록시(객체 복사를 제어한다.)<br/>
+<br/>
 => proxy 패키지 참조.<br/>
 https://plposer.tistory.com/31 <br/>
 https://meylady.tistory.com/58 <br/>
