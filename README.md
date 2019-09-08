@@ -72,8 +72,13 @@ https://jusungpark.tistory.com/16?category=630296 <br/>
 https://jusungpark.tistory.com/7?category=630296 <br/>
 <br/><br/>
 
-## 6. 팩토리 메소드 패턴 (Factory Method Pattern)
+## 6. 팩토리 메소드 (Factory Pattern)
 객체를 만들어내는 공장을 만드는 패턴.<br/>
+(1) 팩토리 메소드 패턴<br/>
+(2) 추상 팩토리 패턴<br/>
+<br/>
+=> factory 패키지 참조.<br/>
+https://jusungpark.tistory.com/14?category=630296 <br/>
 <br/><br/>
 
 ## 7. 어댑터 패턴 (Adapter Pattern)
