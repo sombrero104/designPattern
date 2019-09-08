@@ -1,7 +1,7 @@
 # Design Pattern
 <br/>
 
-## 1. 템플릿 메소드 패턴
+## 1. 템플릿 메소드 패턴 (Template Method Pattern)
 메소드에서 알고리즘의 골격을 정의한다.<br/>
 알고리즘의 여러 단계 중 일부는 서브클래스에서 구현할 수 있다.<br/>
 템플릿 메소드를 이용하면 알고리즘의 구조는 그대로 유지하면서 서브 클래스에서 특정 단계를 재정의 할 수 있다.<br/>
@@ -18,7 +18,7 @@
 https://jusungpark.tistory.com/24 <br/>
 <br/><br/>
 
-## 2. 프록시 패턴
+## 2. 프록시 패턴 (Proxy Pattern)
 클라이언트에서 프록시 클래스를 통해 간접적으로 주체 클래스를 사용하는 방식.<br/>
 프록시가 대리자로써 일을 처리하고 완료되면 결과를 알려주는 패턴.<br/>
 프록시의 의미는 "대리자"라는 의미이다.<br/>
@@ -40,7 +40,7 @@ https://plposer.tistory.com/31 <br/>
 https://meylady.tistory.com/58 <br/>
 <br/><br/>
 
-## 3. 퍼사드 패턴
+## 3. 퍼사드 패턴 (Facade Pattern)
 인터페이스를 간단하게 바꿈 (for 간편함)<br/>
 어떤 서브시스템에 대한 간단한 인터페이스를 제공하기 위한 용도.<br/>
 퍼사드에서 고수준 인터페이스를 정의하기 때문에 서브시스템을 더 쉽게 사용할 수 있다.<br/>
@@ -51,8 +51,14 @@ https://meylady.tistory.com/58 <br/>
 https://jusungpark.tistory.com/23?category=630296 <br/>
 <br/><br/>
 
-## 4. 싱글톤 패턴
+## 4. 싱글톤 패턴 (Singleton Pattern)
 인스턴스를 한번만 생성해서 사용하턴 패턴.<br/>
+해당 클래스의 인스턴스가 하나만 만들어지고, 어디서든지 그 인스턴스에 접근할 수 있도록 하기 위한 패턴.<br/>
+클래스에서 자신의 단 하나뿐인 인스턴스를 관리하도록 만든다.<br/>
+다른 어떤 클래스에서도 자신의 인스턴스를 추가로 만들지 못하도록 해야한다. <br/>
+<br/>
+=> singleton 패키지 참조.<br/>
+https://jusungpark.tistory.com/16?category=630296 <br/>
 <br/><br/>
 
 ## 5. 전략 패턴
