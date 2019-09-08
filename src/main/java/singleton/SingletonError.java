@@ -73,6 +73,14 @@ package singleton;
  *          return singletonError;
  *      }
  *
+ *      => 여기에서 사용된 volatile은 메인 메모리에 저장하고 가져오겠다는 의미.
+ *      CPU가 여러개일 경우 멀티스레드를 사용하면 스레드마다 다른 CPU를 사용할 수 있다.
+ *      각 스레드가 실행될때 해당 스레드가 있는 CPU cache에 메인 메모리의 값을 복사해오는데
+ *      두 개 혹은 그 이상의 스레드가 접근하고 사용하는 공용 오브젝트의 값을 변경할 경우
+ *      각 스레드마다 CPU cache에 복사해온 값의 동기화가 보장이 안된다.
+ *      volatile을 사용하면 모든 쓰기, 읽기 연산을 할때마다 항상 메인 메모리로부터 읽어가도록 보장해준다.
+ *      자세한 내용은 아래 링크 참조..
+ *      https://thswave.github.io/java/2015/03/08/java-volatile.html
  *
  */
 public class SingletonError {
