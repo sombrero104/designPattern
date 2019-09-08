@@ -63,20 +63,25 @@ https://jusungpark.tistory.com/23?category=630296 <br/>
 https://jusungpark.tistory.com/16?category=630296 <br/>
 <br/><br/>
 
-## 5. 전략 패턴
+## 5. 전략 패턴 (Strategy Pattern)
 실행 중에 알고리즘을 선택할 수 있게 하는 패턴.<br/>
+알고리즘군을 정의하고 각각 캡슐화하여 교환해서 사용할 수 있도록 만든다.<br/>
+스트래티지 패턴을 활용하면 알고리즘을 사용하는 클라이언트와는 독립적으로 알고리즘을 변경할 수 있다.<br/>
+<br/>
+=> strategy 패키지 참조.<br/>
+https://jusungpark.tistory.com/7?category=630296 <br/>
 <br/><br/>
 
-## 6. 팩토리 메소드 패턴
+## 6. 팩토리 메소드 패턴 (Factory Method Pattern)
 객체를 만들어내는 공장을 만드는 패턴.<br/>
 <br/><br/>
 
-## 7. 어댑터 패턴
+## 7. 어댑터 패턴 (Adapter Pattern)
 한 인터페이스를 다른 인터페이스로 변환 (for 호환성)<br/>
 인터페이스를 변경해서 클라이언트에서 필요로 하는 인터페이스로 적응시키기 위한 용도.<br/>
 <br/><br/>
 
-## 8. 데코레이터 패턴
+## 8. 데코레이터 패턴 (Decorator Pattern)
 인터페이스를 바꾸지 않고 책임(기능)만 추가함. (For 기능 추가)<br/>
 <br/><br/>
     
