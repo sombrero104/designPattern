@@ -72,10 +72,12 @@ https://jusungpark.tistory.com/16?category=630296 <br/>
 https://jusungpark.tistory.com/7?category=630296 <br/>
 <br/><br/>
 
-## 6. 팩토리 메소드 (Factory Pattern)
+## 6. 팩토리 패턴 (Factory Pattern)
 객체를 만들어내는 공장을 만드는 패턴.<br/>
 (1) 팩토리 메소드 패턴<br/>
+클래스의 인스턴스를 만드는 일을 서브 클래스에게 맡기는 것.<br/>
 (2) 추상 팩토리 패턴<br/>
+인터페이스를 이용하여 서로 연관된, 또는 의존하는 객체를 구상 클래스를 지정하지 않고 생성하는 것.<br/>
 <br/>
 => factory 패키지 참조.<br/>
 https://jusungpark.tistory.com/14?category=630296 <br/>
