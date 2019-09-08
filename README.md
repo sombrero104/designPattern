@@ -82,7 +82,7 @@ https://jusungpark.tistory.com/7?category=630296 <br/>
 => factory 패키지 참조.<br/>
 factoryMethod 패키지와 재료 팩토리가 추가된 abstractFactory 패키지에서 <br/>
 각각 NYPizzaStore 클래스의 createPizza()를 보면 <br/>
-팩토리 메소드 패턴과 추상 팩토리 패턴을 참조할 수 있다. <br/>
+팩토리 메소드 패턴과 추상 팩토리 패턴에 대해 참조할 수 있다. <br/>
 https://jusungpark.tistory.com/14?category=630296 <br/>
 <br/><br/>
 
