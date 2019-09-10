@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/CoffeeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,17 +25,143 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.35750422">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Beverage.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                  <folding>
+                    <element signature="e#136#137#0" expanded="true" />
+                    <element signature="e#170#171#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Mocha.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#136#137#0" expanded="true" />
+                    <element signature="e#176#177#0" expanded="true" />
+                    <element signature="e#117#118#0" expanded="true" />
+                    <element signature="e#144#145#0" expanded="true" />
+                    <element signature="e#324#325#0" expanded="true" />
+                    <element signature="e#370#371#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/CondimentDecorator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/CoffeeStore.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Soy.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#136#137#0" expanded="true" />
+                    <element signature="e#176#177#0" expanded="true" />
+                    <element signature="e#225#226#0" expanded="true" />
+                    <element signature="e#252#253#0" expanded="true" />
+                    <element signature="e#320#321#0" expanded="true" />
+                    <element signature="e#364#365#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Whip.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#138#139#0" expanded="true" />
+                    <element signature="e#178#179#0" expanded="true" />
+                    <element signature="e#227#228#0" expanded="true" />
+                    <element signature="e#254#255#0" expanded="true" />
+                    <element signature="e#322#323#0" expanded="true" />
+                    <element signature="e#369#370#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DarkRoast.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <element signature="e#86#87#0" expanded="true" />
+                    <element signature="e#123#124#0" expanded="true" />
+                    <element signature="e#167#168#0" expanded="true" />
+                    <element signature="e#193#194#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Espresso.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#84#85#0" expanded="true" />
+                    <element signature="e#120#121#0" expanded="true" />
+                    <element signature="e#97#98#0" expanded="true" />
+                    <element signature="e#120#121#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/decorator/HouseBlend.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#88#89#0" expanded="true" />
+                    <element signature="e#124#125#0" expanded="true" />
+                    <element signature="e#100#101#0" expanded="true" />
+                    <element signature="e#124#125#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,15 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/NYStylePepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/NYStyleClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/NYStyleVeggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/NYStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStylePepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStyleClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStyleVeggiePizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/PizzaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/factoryMethod/Pizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Dough.java" />
@@ -98,6 +224,15 @@
         <option value="$PROJECT_DIR$/src/main/java/adapter/TurkeyAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/adapter/DuckTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Espresso.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/DarkRoast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/CoffeeStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Whip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Soy.java" />
       </list>
     </option>
   </component>
@@ -113,9 +248,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="700" />
+    <option name="x" value="328" />
     <option name="y" value="23" />
-    <option name="width" value="1312" />
+    <option name="width" value="1352" />
     <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -155,6 +290,14 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -171,6 +314,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="decorator" />
       <recent name="factory.abstractFactory" />
       <recent name="factory.factoryMethod" />
       <recent name="strategy" />
@@ -189,7 +333,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckTest (1)">
+  <component name="RunManager" selected="Application.CoffeeStore">
+    <configuration name="CoffeeStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.CoffeeStore" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuckTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="adapter.DuckTest" />
       <module name="designPattern" />
@@ -209,19 +366,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxy.Main" />
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,11 +401,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeeStore" />
         <item itemvalue="Application.DuckTest (1)" />
         <item itemvalue="Application.PizzaTest (1)" />
         <item itemvalue="Application.PizzaTest" />
         <item itemvalue="Application.DuckTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -288,21 +432,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="23" width="1312" height="973" extended-state="0" />
+    <frame x="328" y="23" width="1352" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14015748" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.09465649" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4992126" visible="true" weight="0.3280363" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4992126" weight="0.3280363" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007874" side_tool="true" weight="0.3280363" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4992126" weight="0.3280363" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4992126" weight="0.3291714" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3280363" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3280363" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -340,87 +484,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/templateMethod/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/templateMethod/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/templateMethod/TeaMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factoryMethod/NYStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStyleClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/factoryMethod/ChicagoStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Dough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Sauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Veggies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -757,8 +820,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+        <state relative-caret-position="183">
+          <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/CoffeeStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
