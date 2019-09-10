@@ -99,6 +99,11 @@ https://jusungpark.tistory.com/22?category=630296 <br/>
 인터페이스를 바꾸지 않고 책임(기능)만 추가함. (For 기능 추가)<br/>
 객체에 추가적인 요건을 동적으로 첨가한다. <br/>
 서브 클래스를 만드는 것을 통해서 기능을 유연하게 확장할 수 있는 방법을 제공한다.<br/>
+데코레이터가 적용된 예: Java I/O <br/>
+- InputStream이 추상 구성요소이고<br/>
+모든 보조 스트림의 조상인 FileInputStream이 추상 데코레이터이다.<br/>
+FileInputStream을 상속받아 구현하는 BufferedInputStream 클래스들이 구상 데코레이터이다.<br/>
+InputStream을 상속받는 FileInputStream 같은 기반 스트림들은 데코레이터로 포장될 구상 구성요소 역할을 한다. <br/>
 <br/>
 => decorator 패키지 참조.<br/>
 https://jusungpark.tistory.com/9?category=630296 <br/>
