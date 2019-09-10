@@ -97,6 +97,23 @@ https://jusungpark.tistory.com/22?category=630296 <br/>
 
 ## 8. 데코레이터 패턴 (Decorator Pattern)
 인터페이스를 바꾸지 않고 책임(기능)만 추가함. (For 기능 추가)<br/>
+객체에 추가적인 요건을 동적으로 첨가한다. <br/>
+서브 클래스를 만드는 것을 통해서 기능을 유연하게 확장할 수 있는 방법을 제공한다.<br/>
+<br/>
+=> decorator 패키지 참조.<br/>
+https://jusungpark.tistory.com/9?category=630296 <br/>
+<br/><br/>
+
+## 9. 컴포지트 패턴 (Composite Pattern)
+<br/><br/>
+
+## 10. 이터레이터 패턴 (Iterator Pattern)
+<br/><br/>
+
+## 11. 커맨드 패턴 (Command Pattern)
+<br/><br/>
+
+## 12. 옵저버 패턴 (Observer Patter)
 <br/><br/>
     
 --
