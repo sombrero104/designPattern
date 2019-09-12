@@ -185,6 +185,15 @@ https://www.journaldev.com/1751/state-design-pattern-java <br/>
 반복적으로 생길 수 있는 문제를 해결하기 위한 용도로 두 개 이상의 패턴을 결합하여 사용하는 것을 뜻함.<br/>
 <br/>
 => compound 패키지 참조. <br/>
+<pre>
+- 오리에 적용될 패턴.
+(1) 처음에 수많은 Quackable들이 존재.
+(2) 갑자기 거위가 나타나서는 자기도 Quackable이 되고 싶다고 함. (어댑터 패턴)
+(3) 꽥 학자들이 등장해서 꽥 소리 횟수를 세고 싶다고 함. (데코레이터 패턴)
+(4) 꽥 학자들이 QuackCounter로 장식되지 않은 Quackable 객체가 있을지도 모른다는 걱정을 함. (추상 팩토리 패턴)
+(5) 모든 오리와 거위, Quackable 객체들을 관리하는게 힘들어지기 시작하여 오리떼 계층구조로 관리. (컴포지트 패턴)
+(6) 꽥 학자들은 Quackable에서 꽥 소리를 냈을 때 알림을 받고 싶어함. (옵저버 패턴)
+</pre>
 http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
