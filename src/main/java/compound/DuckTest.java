@@ -12,7 +12,8 @@ package compound;
  *      => Quackable 인터페이스를 구현한 GooseAdapter로 Goose의 어댑터 역할을 함.
  *
  * (3) 꽥 학자들이 등장해서 꽥 소리 횟수를 세고 싶다고 함. (데코레이터 패턴)
- *      => Quackable 인터페이스를 구현한 QuackCounter를 만들어서 위에서 구현한 Quackable 구현체들을 전달하여 각각의 quack()을 호출하고 카운트를 셈.
+ *      => Quackable 인터페이스를 구현한 QuackCounter(데코레이터)를 만들어서
+ *         위에서 구현한 Quackable 구현체들을 전달하여(감싸서) 각각의 quack()을 호출하고 카운트를 셈.
  *
  * (4) 꽥 학자들이 QuackCounter로 장식되지 않은 Quackable 객체가 있을지도 모른다는 걱정을 함. (추상 팩토리 패턴)
  *
