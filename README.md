@@ -132,6 +132,11 @@ https://jusungpark.tistory.com/25?category=630296 <br/>
 <br/><br/>
 
 ## 11. 커맨드 패턴 (Command Pattern)
+요구사항을 객체로 캡슐화 할 수 있으며, 매개변수를 써서 여러가지 다른 요구사항을 집어넣을 수 있다.<br/>
+또한 요청 내역을 큐에 저장하거나 로그로 기록할 수도 있으며 작업 취소 지원도 가능하다. <br/>
+<br/>
+=> command 패키지 참조. <br/>
+https://jusungpark.tistory.com/18?category=630296 <br/>
 <br/><br/>
 
 ## 12. 옵저버 패턴 (Observer Patter)
