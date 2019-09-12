@@ -15,7 +15,8 @@ package compound;
  *      => Quackable 인터페이스를 구현한 QuackCounter(데코레이터)를 만들어서
  *         위에서 구현한 Quackable 구현체들을 전달하여(감싸서) 각각의 quack()을 호출하고 카운트를 셈.
  *
- * (4) 꽥 학자들이 QuackCounter로 장식되지 않은 Quackable 객체가 있을지도 모른다는 걱정을 함. 모든 객체를 팩토리에서 만들도록 바꿈. (추상 팩토리 패턴)
+ * (4) 꽥 학자들이 QuackCounter로 장식되지 않은 Quackable 객체가 있을지도 모른다는 걱정을 함.
+ *     모든 객체를 팩토리에서 만들도록 바꿈. (추상 팩토리 패턴)
  *      => AbstractDuckFactory를 상속받는 CountingDuckFactory 추가. 오리 객체들을 만드는 팩토리 역할.
  *
  * (5) 모든 오리와 거위, Quackable 객체들을 관리하는게 힘들어지기 시작하여 오리떼 계층구조로 관리. (컴포지트 패턴)
