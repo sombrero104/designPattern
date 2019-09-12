@@ -163,6 +163,7 @@ https://jusungpark.tistory.com/18?category=630296 <br/>
 <br/>
 (1) 주제 객체에서 옵저버로 데이터를 보내는 방식 (푸시 방식)<br/>
 -> observer.push 패키지 참조.<br/>
+<br/>
 (2) 옵저버에서 주제 객체의 데이터를 가져가는 방식 (풀 방식)<br/>
 -> observer.java_observer 패키지 참조. (자바 내장 옵저버 사용하는 방식. 푸시 방식, 풀 방식 모두 사용가능.)<br/>
 <br/>
