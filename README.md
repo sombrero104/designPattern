@@ -174,6 +174,7 @@ https://jusungpark.tistory.com/8?category=630296 <br/>
 
 ## 13. 스테이트 패턴 (State Pattern)
 일련의 규칙에 따라 객체의 상태(State)를 변화시켜, 객체가 할 수 있는 행위를 바꾸는 패턴.<br/>
+<br/>
 => state 패키지 참조. <br/>
 https://victorydntmd.tistory.com/294 <br/>
 https://www.journaldev.com/1751/state-design-pattern-java <br/>
