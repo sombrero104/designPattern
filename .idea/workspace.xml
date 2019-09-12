@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/compound/QuackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compound/DuckFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" afterDir="false" />
     </list>
@@ -20,15 +22,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/QuackCounter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/compound/DuckFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/compound/DuckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
+            <state relative-caret-position="428">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -66,9 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/composite/MenuTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/composite/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterator/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/Menu.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/DinerMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/DinerMenuIterator.java" />
@@ -115,8 +133,11 @@
         <option value="$PROJECT_DIR$/src/main/java/compound/RubberDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/Goose.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/GooseAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/QuackCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/compound/DuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" />
       </list>
     </option>
   </component>
@@ -132,7 +153,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
+    <option name="x" value="594" />
     <option name="y" value="23" />
     <option name="width" value="1408" />
     <option name="height" value="973" />
@@ -316,13 +337,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="23" width="1408" height="973" extended-state="0" />
+    <frame x="594" y="23" width="1408" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.16032211" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.15519765" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4992126" visible="true" weight="0.3280363" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007874" side_tool="true" weight="0.3280363" />
@@ -414,31 +435,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="137" column="40" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterator/PancakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/iterator/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -858,21 +854,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/compound/QuackCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="105">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/compound/DuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/compound/DuckTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
+        <state relative-caret-position="428">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
         </state>
       </provider>
     </entry>
