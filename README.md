@@ -160,7 +160,9 @@ https://jusungpark.tistory.com/18?category=630296 <br/>
 주제 객체에 의존하고 있는 옵저버 인터페이스를 구현한 여러개의 옵저버 객체가 있는 디자인을 바탕으로 한다.<br/>
 데이터 전달 방식은 2가지가 있다.<br/>
 (1) 주제 객체에서 옵저버로 데이터를 보내는 방식 (푸시 방식)<br/>
+-> observer.push 패키지 참조.<br/>
 (2) 옵저버에서 주제 객체의 데이터를 가져가는 방식 (풀 방식)<br/>
+-> observer.java_observer 패키지 참조. (자바 내장 옵저버 사용하는 방식. 푸시 방식, 풀 방식 모두 사용가능.)<br/>
 <br/>
 => observer 패키지 참조. <br/>
 https://jusungpark.tistory.com/8?category=630296 <br/>
