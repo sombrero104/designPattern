@@ -48,6 +48,7 @@ public class RemoteControl {
      */
     public void undoButtonWasPushed() {
         undoCommand.undo();
+        undoCommand = new NoCommand();
     }
 
     /**
