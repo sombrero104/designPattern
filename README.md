@@ -179,6 +179,8 @@ https://victorydntmd.tistory.com/294 <br/>
 https://www.journaldev.com/1751/state-design-pattern-java <br/>
 <br/><br/>
 
+## 14.
+
 ## 기타 패턴들..
 컴파운드 패턴<br/>
 브리지 패턴<br/>
