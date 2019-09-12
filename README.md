@@ -180,10 +180,15 @@ https://victorydntmd.tistory.com/294 <br/>
 https://www.journaldev.com/1751/state-design-pattern-java <br/>
 <br/><br/>
 
-## 14.
+## 14. 컴파운드 패턴 (Compound Pattern)
+패턴 섞어 쓰기.<br/>
+반복적으로 생길 수 있는 문제를 해결하기 위한 용도로 두 개 이상의 패턴을 결합하여 사용하는 것을 뜻함.<br/>
+<br/>
+=> compound 패키지 참조. <br/>
+http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
+<br/><br/>
 
 ## 기타 패턴들..
-컴파운드 패턴<br/>
 브리지 패턴<br/>
 빌더 패턴<br/>
 역할 사슬 패턴<br/>
