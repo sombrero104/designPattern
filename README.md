@@ -165,7 +165,8 @@ https://jusungpark.tistory.com/18?category=630296 <br/>
 -> observer.push 패키지 참조.<br/>
 <br/>
 (2) 옵저버에서 주제 객체의 데이터를 가져가는 방식 (풀 방식)<br/>
--> observer.java_observer 패키지 참조. (자바 내장 옵저버 사용하는 방식. 푸시 방식, 풀 방식 모두 사용가능.)<br/>
+-> 자바 9부터 deprecated 됨.<br/>
+-> 자바 내장 옵저버 사용하는 방식. 푸시 방식, 풀 방식 모두 사용가능. <br/>
 <br/>
 => observer 패키지 참조. <br/>
 https://jusungpark.tistory.com/8?category=630296 <br/>
