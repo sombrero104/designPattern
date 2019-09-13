@@ -18,4 +18,13 @@ public class QuackCounter implements Quackable {
         numberOfQuacks++;
     }
 
+    @Override
+    public void registerObserver(Observer observer) {
+
+    }
+
+    @Override
+    public void notifyObservers() {
+
+    }
 }

@@ -28,6 +28,9 @@ import strategy.Quack;
  *         Flock인 flockOfDucks에 Flock인 flockOfMallards를 추가.
  *
  * (6) 꽥 학자들은 Quackable에서 꽥 소리를 냈을 때 알림을 받고 싶어함. (옵저버 패턴)
+ *      => QuackObservable
+ *      Observable
+ *      Observer
  *
  */
 public class DuckTest {
@@ -67,6 +70,13 @@ public class DuckTest {
         flockOfDucks.add(rubberDuck); // Quack.
         flockOfDucks.add(goose); // Honk.
         flockOfDucks.add(flockOfMallards); // Quack. Quack. Quack.
+
+        System.out.println("With Observer");
+        System.out.println("----------------------------------");
+        MallardsQuackologist mallardsQuackologist = new MallardsQuackologist();
+        flockOfMallards.registerObserver(mallardsQuackologist);
+        Quackologist quackologist = new Quackologist();
+        flockOfDucks.registerObserver(quackologist);
 
         System.out.println("1. Whole Flock.");
         System.out.println("----------------------------------");
