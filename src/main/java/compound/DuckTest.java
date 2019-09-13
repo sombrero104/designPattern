@@ -74,7 +74,9 @@ public class DuckTest {
         System.out.println("With Observer");
         System.out.println("----------------------------------");
         MallardsQuackologist mallardsQuackologist = new MallardsQuackologist();
+        MallardsQuackologist2 mallardsQuackologist2 = new MallardsQuackologist2();
         flockOfMallards.registerObserver(mallardsQuackologist);
+        flockOfMallards.registerObserver(mallardsQuackologist2);
         Quackologist quackologist = new Quackologist();
         flockOfDucks.registerObserver(quackologist);
 
