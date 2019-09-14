@@ -11,6 +11,8 @@ http://sjava.net/2008/07/design-pattern-quick-reference-image <br/>
 
 ![design_patterns_01](./design_patterns_01.png)<br/>
 ![design_patterns_02](./design_patterns_02.png)<br/>
+![design_patterns_03](./design_patterns_03.png)<br/>
+![design_patterns_04](./design_patterns_04.png)<br/>
 <br/><br/><br/>
 
 ## 1. 템플릿 메소드 패턴 (Template Method Pattern)
