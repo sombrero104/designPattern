@@ -225,13 +225,22 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 <br/><br/>
 
 ## 18. 플라이웨이트 (Flyweight Pattern)
+<br/>
 => <br/>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
 <br/><br/>
 
 ## 19. 인터프리터 패턴 (Interpreter Pattern)
+<br/>
 => <br/>
 https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Interpreter-pattern-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%ED%8C%A8%ED%84%B4 <br/>
+<br/><br/>
+
+## 20. 중재자 패턴 (미디에이터 패턴, Mediator Pattern)
+<br/>
+=> <br/>
+https://palpit.tistory.com/201 <br/>
+https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Mediator-pattern-%EB%AF%B8%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
 ## 기타 패턴들..
