@@ -1,4 +1,8 @@
 # Design Pattern
+https://dailyworker.github.io/java-design-pattern <br/>
+https://gmlwjd9405.github.io/2018/07/06/design-pattern.html <br/>
+http://sjava.net/2008/07/design-pattern-quick-reference-image <br/>
+<br/><br/>
 
 #### * 결합도, 응집도
 결합도는 낮고, 응집도는 높을수록 좋다.
@@ -264,9 +268,6 @@ https://lktprogrammer.tistory.com/65 <br/>
 => visitor 패키지 참조. <br/>
 <br/><br/>
 
-<br/>
 
-## 기타 패턴들..
-?<br/>
 <br/><br/>
 
