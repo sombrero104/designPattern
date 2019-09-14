@@ -1,9 +1,8 @@
 # Design Pattern
-<br/>
 
 #### * 결합도, 응집도
 결합도는 낮고, 응집도는 높을수록 좋다.
-<br/>
+<br/><br/>
 
 ## 1. 템플릿 메소드 패턴 (Template Method Pattern)
 메소드에서 알고리즘의 골격을 정의한다.<br/>
