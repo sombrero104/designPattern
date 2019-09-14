@@ -243,11 +243,25 @@ https://palpit.tistory.com/201 <br/>
 https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Mediator-pattern-%EB%AF%B8%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
+## 21. 메멘토 패턴 (Memento Pattern)
+객체의 상태 정보를 저장하고 사용자의 필요에 의하여 원하는 시점의 상태로 복원할 수 있는 패턴.<br/>
+<br/>
+=> memento 패키지 참조.<br/>
+https://lktprogrammer.tistory.com/65 <br/>
+<br/><br/>
+
+## 22. 프로토타입 패턴
+<br/>
+=> <br/>
+<br/><br/>
+
+## 23. 비지터 패턴
+<br/>
+=> <br/>
+<br/><br/>
+
 ## 기타 패턴들..
-미디에이터 패턴<br/>
-메멘토 패턴<br/>
-프로토타입 패턴<br/>
-비지터 패턴<br/>
+// ?
 <br/><br/>
 
 --
