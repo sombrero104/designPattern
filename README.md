@@ -202,6 +202,9 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
+객체 생성 알고리즘과 조립 방법을 분리하는 것이 목적.<br/>
+코드 읽기/유지보수가 편해짐.<br/>
+생성자 인자가 많을 때는 빌더 패턴을 고려.<br/>
 => builder 패키지 참조.<br/>
 https://johngrib.github.io/wiki/builder-pattern <br/>
 <br/><br/>
