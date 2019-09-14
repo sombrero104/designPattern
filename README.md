@@ -1,7 +1,7 @@
 # 디자인 패턴 (Design Pattern)
 <br/>
 
-#### * 디자인 패턴이란? 디자인 패턴 종류.
+#### * 디자인 패턴이란?
 https://dailyworker.github.io/java-design-pattern <br/>
 https://gmlwjd9405.github.io/2018/07/06/design-pattern.html <br/>
 http://sjava.net/2008/07/design-pattern-quick-reference-image <br/>
