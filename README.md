@@ -210,6 +210,17 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 https://johngrib.github.io/wiki/builder-pattern <br/>
 <br/><br/>
 
+## 17. 역할 사슬 패턴 (Chain Of Responsibility Pattern)
+여러 개의 객체 중에서 어떤 것이 요구사항을 처리할 수 있는지 사전에 알 수 없을 때 사용.<br/>
+요청 처리가 들어오면 그것을 수신한 객체가 자신이 처리할 수 없을 때 다음 객체에게 문제를 넘김으로써<br/>
+최종적으로 요청을 처리할 수 있는 객체에 의해 처리가 가능하도록 하는 패턴.<br/>
+=> chain 패키지 참조.<br/>
+https://lktprogrammer.tistory.com/45 <br/>
+https://sexycoder.tistory.com/105 <br/>
+http://www.nextree.co.kr/p2533/ <br/>
+https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-responsibility-pattern-%EC%97%AD%ED%95%A0-%EC%82%AC%EC%8A%AC-%ED%8C%A8%ED%84%B4 <br/>
+<br/><br/>
+
 ## 기타 패턴들..
 역할 사슬 패턴<br/>
 플라이웨이트 패턴<br/>
