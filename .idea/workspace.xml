@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/builder/NutritionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,10 +20,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/builder/NutritionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="843">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -50,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/command/Command.java" />
         <option value="$PROJECT_DIR$/src/main/java/command/LightOnCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/command/StereoOnCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/command/LightOffCommand.java" />
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/builder/NutritionTest.java" />
       </list>
     </option>
   </component>
@@ -116,7 +126,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="678" />
+    <option name="x" value="521" />
     <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="973" />
@@ -204,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckTest">
+  <component name="RunManager" selected="Application.NutritionTest">
     <configuration name="DuckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compound.DuckTest" />
       <module name="designPattern" />
@@ -218,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="command.RemoteControlTest" />
+    <configuration name="NutritionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.NutritionTest" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="command.*" />
+          <option name="PATTERN" value="builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NutritionTest" />
         <item itemvalue="Application.DuckTest" />
         <item itemvalue="Application.TVRemote" />
         <item itemvalue="Application.TVRemoteBasic" />
         <item itemvalue="Application.WeatherTest" />
-        <item itemvalue="Application.RemoteControlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,21 +313,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="678" y="23" width="1308" height="973" extended-state="0" />
+    <frame x="521" y="23" width="1308" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.1563981" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.1563981" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4992126" visible="true" weight="0.39954597" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4992126" weight="0.3030647" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007874" side_tool="true" weight="0.3280363" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4992126" weight="0.3280363" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4992126" weight="0.3291714" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.42224744" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.42224744" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -401,13 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/command/Light.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -845,8 +848,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/builder/NutritionFacts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="843">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/builder/NutritionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
         </state>
       </provider>
     </entry>

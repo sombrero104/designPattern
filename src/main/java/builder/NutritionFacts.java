@@ -56,6 +56,26 @@ public class NutritionFacts {
             return this;
         }
 
+        @Override
+        public String toString() {
+            return "Builder{" +
+                    "servingSize=" + servingSize +
+                    ", servings=" + servings +
+                    ", calories=" + calories +
+                    ", fat=" + fat +
+                    ", carbohydrate=" + carbohydrate +
+                    ", sodium=" + sodium +
+                    '}';
+        }
+
+    }
+
+    @Override
+    public String toString() {
+        return "NutritionFacts{" +
+                "servingSize=" + servingSize +
+                ", servings=" + servings +
+                '}';
     }
 
 }
