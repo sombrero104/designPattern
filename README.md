@@ -199,6 +199,7 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
 ## 15. 브리지 패턴 (Bridge Pattern)
+// TODO <br/>
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
