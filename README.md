@@ -225,7 +225,6 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 <br/><br/>
 
 ## 기타 패턴들..
-역할 사슬 패턴<br/>
 플라이웨이트 패턴<br/>
 인터프리터 패턴<br/>
 미디에이터 패턴<br/>
