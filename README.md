@@ -198,9 +198,15 @@ https://www.journaldev.com/1751/state-design-pattern-java <br/>
 http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
+## 15. 브리지 패턴 (Bridge Pattern)
+<br/><br/>
+
+## 16. 빌더 패턴 (Builder Pattern)
+=> builder 패키지 참조.<br/>
+https://johngrib.github.io/wiki/builder-pattern <br/>
+<br/><br/>
+
 ## 기타 패턴들..
-브리지 패턴<br/>
-빌더 패턴<br/>
 역할 사슬 패턴<br/>
 플라이웨이트 패턴<br/>
 인터프리터 패턴<br/>
