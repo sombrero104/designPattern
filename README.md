@@ -224,9 +224,17 @@ http://www.nextree.co.kr/p2533/ <br/>
 https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-responsibility-pattern-%EC%97%AD%ED%95%A0-%EC%82%AC%EC%8A%AC-%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
+## 18. 플라이웨이트 (Flyweight Pattern)
+=> <br/>
+https://m.blog.naver.com/2feelus/220669069127 <br/>
+<br/><br/>
+
+## 19. 인터프리터 패턴 (Interpreter Pattern)
+=> <br/>
+https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Interpreter-pattern-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%ED%8C%A8%ED%84%B4 <br/>
+<br/><br/>
+
 ## 기타 패턴들..
-플라이웨이트 패턴<br/>
-인터프리터 패턴<br/>
 미디에이터 패턴<br/>
 메멘토 패턴<br/>
 프로토타입 패턴<br/>
