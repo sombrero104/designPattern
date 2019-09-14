@@ -1,9 +1,10 @@
-# Design Pattern
+# 디자인 패턴 (Design Pattern)
 
 #### * 결합도, 응집도
 결합도는 낮고, 응집도는 높을수록 좋다.
 <br/><br/>
 
+#### * 디자인 패턴이란? 디자인 패턴 종류.
 https://dailyworker.github.io/java-design-pattern <br/>
 https://gmlwjd9405.github.io/2018/07/06/design-pattern.html <br/>
 http://sjava.net/2008/07/design-pattern-quick-reference-image <br/>
