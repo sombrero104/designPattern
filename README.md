@@ -199,7 +199,8 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
 ## 15. 브리지 패턴 (Bridge Pattern)
-// TODO <br/>
+<br/>
+=> bridge 패키지 참조.<br/>
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
@@ -261,7 +262,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 <br/><br/>
 
 ## 기타 패턴들..
-// ?
+?<br/>
 <br/><br/>
 
 --
