@@ -133,6 +133,12 @@ https://jusungpark.tistory.com/9?category=630296 <br/>
 <br/>
 => composite 패키지 참조.<br/>
 https://jusungpark.tistory.com/26?category=630296 <br/>
+<br/>
+### * 컴포지트 패턴(Composite Pattern)과 데코레이터 패턴(Decorator Pattern)의 차이
+<pre>
+- 컴포지트 패턴(Composite Pattern) vs 데코레이터 패턴(Decorator Pattern)
+</pre>
+https://gyrfalcon.tistory.com/entry/Adapter-vs-Bridge-Composite-vs-Decorator-vs-Proxy-%EB%B9%84%EA%B5%90 <br/>
 <br/><br/>
 
 ## 10. 이터레이터 패턴 (Iterator Pattern)

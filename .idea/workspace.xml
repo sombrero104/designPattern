@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="226" column="5" selection-start-line="226" selection-start-column="5" selection-end-line="226" selection-end-column="5" />
+            <state relative-caret-position="675">
+              <caret line="221" column="47" lean-forward="true" selection-start-line="221" selection-start-column="47" selection-end-line="221" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -115,7 +113,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="549" />
+    <option name="x" value="648" />
     <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="973" />
@@ -299,6 +297,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="549" y="23" width="1308" height="973" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -856,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="226" column="5" selection-start-line="226" selection-start-column="5" selection-end-line="226" selection-end-column="5" />
+        <state relative-caret-position="675">
+          <caret line="221" column="47" lean-forward="true" selection-start-line="221" selection-start-column="47" selection-end-line="221" selection-end-column="47" />
         </state>
       </provider>
     </entry>
