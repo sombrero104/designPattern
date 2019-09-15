@@ -316,6 +316,20 @@ https://m.blog.naver.com/2feelus/220669069127 <br/>
 <br/>
 ### * 플라이웨이트 패턴(Flyweight Pattern)을 사용하는 자바의 String
 두 개 이상의 같은 문자열이 코드에 정의되어 있더라도 String pool에는 하나만 저장되고 그 곳을 참조하는 방식.<br/>
+아래 두 클래스의 getStringA()와 getStringB()는 모두 같은 위치에 있는 "Hello"를 리턴한다.<br/>
+<pre>
+public class A {
+    public String getStringA() {
+        return "Hello";
+    }
+}
+public class B {
+    public String getStringB() {
+        return "Hello";
+    }
+}
+</pre>
+https://m.blog.naver.com/2feelus/220669069127 <br/>
 <pre>
 Returns a canonical representation for the string object.
 A pool of strings, initially empty, is maintained privately by the class String.
