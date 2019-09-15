@@ -299,7 +299,7 @@ http://www.nextree.co.kr/p2533/ <br/>
 https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-responsibility-pattern-%EC%97%AD%ED%95%A0-%EC%82%AC%EC%8A%AC-%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
-## 18. 플라이웨이트 (Flyweight Pattern)
+## 18. 플라이웨이트 패턴 (Flyweight Pattern)
 데이터를 공유하여 메모리를 절약하는 패턴으로 공통으로 사용되는 객체는 한번만 생성되고 공유 풀(Pool)로 관리, 사용된다.<br/>
 객체의 내부에서 참조하는 객체를 직접 만드는 것이 아니라,<br/>
 없다면 만들고, 만들어져 있다면 객체를 공유하는 식으로 객체를 공유하는 식으로 객체를 구성하는 방법이다.<br/>
@@ -314,7 +314,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 => flyweight 패키지 참조.<br/>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
 <br/>
-### * flyweight 패턴을 사용하는 자바의 String
+### * 플라이웨이트 패턴(Flyweight Pattern)을 사용하는 자바의 String
 두 개 이상의 같은 문자열이 코드에 정의되어 있더라도 String pool에는 하나만 저장되고 그 곳을 참조하는 방식.<br/>
 <pre>
 Returns a canonical representation for the string object.
