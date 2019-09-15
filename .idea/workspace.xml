@@ -2,188 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/TreeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/TreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/TreeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/DuckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/DuckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Turkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/Turkey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/TurkeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/TurkeyAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/WildTurkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adapter/WildTurkey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/CircleShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/CircleShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/DrawingAPI_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/DrawingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/DrawingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bridge/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bridge/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/NutritionFacts$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/NutritionFacts$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/NutritionFacts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/NutritionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/NutritionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain1/EvenReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain1/EvenReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain1/OddReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain1/OddReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain1/Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain1/Receiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain1/ReceiverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain1/ReceiverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain2/AbstractLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain2/AbstractLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain2/ConsoleLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain2/ConsoleLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain2/ErrorLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain2/ErrorLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain2/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain2/FileLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain2/LoggerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain2/LoggerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/Currency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/DispenseChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/DispenseChain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/DispenseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/DispenseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar10Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar10Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar1Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar1Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar20Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar20Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar50Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chain/chain3/Dollar50Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/LightOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/LightOffCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/LightOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/MacroCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/MacroCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/NoCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/NoCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/RemoteControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/RemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/RemoteControlTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/SimpleRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/SimpleRemoteControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/SimpleRemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/SimpleRemoteControlTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/Stereo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/Stereo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/StereoOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/StereoOffCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/StereoOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/StereoOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/TV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/TVOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/TVOffCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/TVOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/command/TVOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/MenuComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/MenuComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/MenuItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/MenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/MenuTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Waitress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Waitress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/AbstractDuckFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/AbstractDuckFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/CountingDuckFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/CountingDuckFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/DuckFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/DuckFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/DuckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/DuckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Flock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Flock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Goose.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Goose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/GooseAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/GooseAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/MallardsQuackologist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/MallardsQuackologist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/MallardsQuackologist2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/MallardsQuackologist2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Observable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/QuackCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/QuackCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/QuackObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/QuackObservable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Quackable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Quackable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/Quackologist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/Quackologist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/RedHeadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/RedHeadDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/compound/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compound/RubberDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Beverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/CoffeeStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/CoffeeStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/CondimentDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/CondimentDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/DarkRoast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/DarkRoast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Espresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Espresso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/HouseBlend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Mocha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Mocha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Soy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Soy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decorator/Whip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/decorator/Whip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/Amplifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/Amplifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/CdPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/CdPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/DvdPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/DvdPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/HomeTheater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/HomeTheater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/PopcornPopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/PopcornPopper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/Projector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/Projector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/Screen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/TheaterLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/TheaterLights.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/facade/Tuner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/facade/Tuner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/BlackOlives.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/BlackOlives.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Cheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/CheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ChicagoPizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ChicagoPizzaIngredientFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ClamPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Clams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Clams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Dough.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Dough.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/EggPlant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/EggPlant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Farlic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Farlic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/FreshClams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/FreshClams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/FrozenClam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/FrozenClam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/MarinaraSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/MarinaraSauce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/MozzarellaCheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/MozzarellaCheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Mushroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Mushroom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/NYPizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/NYPizzaIngredientFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/NYPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/NYPizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Onion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Onion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Pepperoni.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Pepperoni.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PepperoniPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PepperoniPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaIngredientFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PizzaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PlumTomatoSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/PlumTomatoSauce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/RedPepper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/RedPepper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ReggianoCheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ReggianoCheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Sauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Sauce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/SlicedPepperoni.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/SlicedPepperoni.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Spinach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Spinach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ThinCrustDough.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/ThinCrustDough.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/VeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/VeggiePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Veggies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/abstractFactory/Veggies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoPizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleCheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleClamPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStylePepperoniPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStylePepperoniPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/ChicagoStyleVeggiePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYPizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleCheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleClamPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStylePepperoniPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStylePepperoniPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/NYStyleVeggiePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/PizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/factoryMethod/PizzaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/factoryMethod/PizzaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/DinerMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/DinerMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/DinerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/DinerMenuIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/MenuItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/MenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/MenuTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/PancakeHouseMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/PancakeHouseMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/Waitress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/Waitress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/CurrentConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/CurrentConditions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/DisplayElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/ForecastDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/ForecastDisplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/StatisticsDisplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/WeatherData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer/push/WeatherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/push/WeatherTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/ImageListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/proxy/ImageListView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/proxy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/ProxyImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/proxy/ProxyImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/proxy/RealImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/SingletonError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton/SingletonError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/notState/TVRemoteBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/notState/TVRemoteBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/state/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/state/State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/state/TVContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/state/TVContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/state/TVRemote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/state/TVRemote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/state/TVStartState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/state/TVStartState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/state/state/TVStopState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/state/TVStopState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/DuckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/DuckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyBehavior.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyNoWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/FlyWithWings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/MuteQuack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/Quack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/QuackBehavior.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Squack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strategy/Squack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templateMethod/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templateMethod/Beverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templateMethod/BlackTea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templateMethod/BlackTea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templateMethod/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templateMethod/Coffee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templateMethod/TeaMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templateMethod/TeaMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -197,18 +16,27 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.77580893">
+    <splitter split-orientation="horizontal" split-proportion="0.63328195">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/TreeTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="273">
-                  <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+                <state relative-caret-position="-90">
+                  <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
                   <folding>
-                    <element signature="e#632#633#0" expanded="true" />
-                    <element signature="e#701#702#0" expanded="true" />
+                    <element signature="e#1548#1549#0" expanded="true" />
+                    <element signature="e#1617#1618#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="199">
+                  <caret line="315" column="46" lean-forward="true" selection-start-line="315" selection-start-column="46" selection-end-line="315" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
@@ -254,8 +82,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/Forest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+                <state relative-caret-position="360">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -334,13 +162,13 @@
         <option value="$PROJECT_DIR$/src/main/java/flyweight/Color.java" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/TreeModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/Texture.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/TreeType.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/TreeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/Forest.java" />
         <option value="$PROJECT_DIR$/src/main/java/flyweight/TreeTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -573,13 +401,13 @@
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.10359116" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4984202" weight="0.3030647" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4984202" visible="true" weight="0.3030647" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50157976" side_tool="true" weight="0.3030647" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4992126" weight="0.3280363" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4992126" weight="0.3291714" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49921012" visible="true" weight="0.42224744" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49921012" weight="0.42224744" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -955,13 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="315" column="5" lean-forward="true" selection-start-line="315" selection-start-column="5" selection-end-line="315" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1060,23 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/Forest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/TreeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1098,13 +902,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/Forest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/TreeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="315" column="46" lean-forward="true" selection-start-line="315" selection-start-column="46" selection-end-line="315" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/flyweight/TreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+        <state relative-caret-position="-90">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
           </folding>
         </state>
       </provider>
