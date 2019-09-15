@@ -321,7 +321,8 @@ Returns a canonical representation for the string object.
 A pool of strings, initially empty, is maintained privately by the class String.
 
 When the intern method is invoked,
-if the pool already contains a string equal to this String object as determined by the equals(Object) method,
+if the pool already contains a string equal to this String object
+as determined by the equals(Object) method,
 then the string from the pool is returned.
 Otherwise, this String object is added to the pool and a reference to this String object is returned.
 
