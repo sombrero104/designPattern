@@ -215,8 +215,10 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
 ## 15. 브리지 패턴 (Bridge Pattern)
+구현부에서 추상층을 분리하여 각자 독립적으로 변형할 수 있게 하는 패턴.<br/>
 <br/>
 => bridge 패키지 참조.<br/>
+https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
