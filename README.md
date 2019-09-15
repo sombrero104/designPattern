@@ -312,6 +312,10 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 이런 경우 플라이웨이트 패턴을 사용해 하나의 리소스를 여러 객체에서 공유하여 사용하는 방식으로 프로그래밍이 작성된다.<br/>
 <br/>
 => flyweight 패키지 참조.<br/>
+<pre>
+나무(8 bytes) 1000000개에 대해 각각 나무 타입(30 bytes)을 만들게 되면 용량이 36MB를 차지하게 된다.
+하지만 나무 타입(30 bytes)을 2개만 만들어서 사용하면 숲을 그리는데에 사용되는 용량은 7MB로 절약할 수 있다.
+</pre>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
 <br/>
 ### * 플라이웨이트 패턴(Flyweight Pattern)을 사용하는 자바의 String
