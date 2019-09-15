@@ -313,6 +313,24 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 <br/>
 => flyweight 패키지 참조.<br/>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
+<br/>
+### * flyweight 패턴을 사용하는 자바의 String
+두 개 이상의 같은 문자열이 코드에 정의되어 있더라도 String pool에는 하나만 저장되고 그 곳을 참조하는 방식.<br/>
+<pre>
+Returns a canonical representation for the string object.
+A pool of strings, initially empty, is maintained privately by the class String.
+
+When the intern method is invoked,
+if the pool already contains a string equal to this String object as determined by the equals(Object) method,
+then the string from the pool is returned.
+Otherwise, this String object is added to the pool and a reference to this String object is returned.
+
+It follows that for any two strings s and t, s.intern() == t.intern() is true if and only if s.equals(t) is true.
+
+All literal strings and string-valued constant expressions are interned.
+String literals are defined in §3.10.5 of the Java Language Specification
+</pre>
+https://stackoverflow.com/questions/11189155/is-javas-string-intern-a-flyweight <br/>
 <br/><br/>
 
 ## 19. 인터프리터 패턴 (Interpreter Pattern)
