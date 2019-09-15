@@ -224,7 +224,7 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 => bridge 패키지 참조.<br/>
 https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4 <br/>
 <br/>
-#### * 어댑터 패턴과 브리지 패턴의 차이
+### * 어댑터 패턴과 브리지 패턴의 차이
 구조 패턴은 코드와 객체를 구조화하기 위해 언어가 제공하는 아주 작은 범위의 개념을 이용하기 때문에 각 패턴이 구조가 비슷할 수 밖에 없다.<br/>
 이러한 패턴들의 차이점은 왜 이 패턴을 써야 하는가에 있다.<br/>
 <pre>
