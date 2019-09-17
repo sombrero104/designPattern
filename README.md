@@ -365,6 +365,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Interprete
 <br/><br/>
 
 ## 20. 중재자 패턴 (미디에이터 패턴, Mediator Pattern)
+서로 관련된 객체 사이의 복잡한 통신과 제어를 한 곳으로 집중시키고자 할 때 사용.<br/>
 <br/>
 => mediator 패키지 참조.<br/>
 https://palpit.tistory.com/201 <br/>
