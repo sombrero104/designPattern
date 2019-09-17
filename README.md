@@ -373,6 +373,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Interprete
 이를 통해 통신 객체 간 의존성을 줄일 수 있으므로 결합도를 감소시킨다.<br/>
 <br/>
 => mediator 패키지 참조.<br/>
+https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9E%AC%EC%9E%90_%ED%8C%A8%ED%84%B4 <br/>
 https://palpit.tistory.com/201 <br/>
 https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Mediator-pattern-%EB%AF%B8%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
