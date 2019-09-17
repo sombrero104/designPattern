@@ -3,6 +3,9 @@ package mediator;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
+/**
+ * A concrete colleague
+ */
 public class ViewButton extends JButton implements Command {
     Mediator mediator;
 
