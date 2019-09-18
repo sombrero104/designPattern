@@ -129,6 +129,7 @@ https://jusungpark.tistory.com/22?category=630296 <br/>
 <br/><br/>
 
 ## 8. 데코레이터 패턴 (Decorator Pattern)
+![decorator](./images/decorator.gif)<br/>
 인터페이스를 바꾸지 않고 책임(기능)만 추가함. (For 기능 추가)<br/>
 객체에 추가적인 요건을 동적으로 첨가한다. <br/>
 서브 클래스를 만드는 것을 통해서 기능을 유연하게 확장할 수 있는 방법을 제공한다.<br/>
