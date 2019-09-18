@@ -2,6 +2,9 @@ package iterator;
 
 import java.util.Iterator;
 
+/**
+ * Concrete Aggregate
+ */
 public class DinerMenu implements Menu {
     static final int MAX_ITEMS = 6;
     int numberOfItems = 0;

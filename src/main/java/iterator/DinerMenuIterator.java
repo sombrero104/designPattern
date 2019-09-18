@@ -2,6 +2,9 @@ package iterator;
 
 import java.util.Iterator;
 
+/**
+ * Concrete Iterator
+ */
 public class DinerMenuIterator implements Iterator<MenuItem> {
     MenuItem[] menuItems;
     int position = 0;
