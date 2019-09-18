@@ -5,6 +5,7 @@
 https://dailyworker.github.io/java-design-pattern <br/>
 https://gmlwjd9405.github.io/2018/07/06/design-pattern.html <br/>
 http://sjava.net/2008/07/design-pattern-quick-reference-image <br/>
+https://ko.wikipedia.org/wiki/%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4_(%EC%B1%85) <br/>
 <br/>
 
 #### * 결합도, 응집도
