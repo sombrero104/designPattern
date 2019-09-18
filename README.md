@@ -74,6 +74,7 @@ https://jusungpark.tistory.com/23?category=630296 <br/>
 <br/><br/>
 
 ## 4. 싱글톤 패턴 (Singleton Pattern)
+![singleton](./images/singleton.png)<br/>
 인스턴스를 한번만 생성해서 사용하턴 패턴.<br/>
 해당 클래스의 인스턴스가 하나만 만들어지고, 어디서든지 그 인스턴스에 접근할 수 있도록 하기 위한 패턴.<br/>
 클래스에서 자신의 단 하나뿐인 인스턴스를 관리하도록 만든다.<br/>
