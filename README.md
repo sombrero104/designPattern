@@ -57,6 +57,7 @@ https://meylady.tistory.com/58 <br/>
 <br/><br/>
 
 ## 3. 퍼사드 패턴 (Facade Pattern)
+많은 분량의 코드에 접근할 수 있는 단순한 인터페이스를 제공한다.<br/>
 인터페이스를 간단하게 바꿈 (for 간편함)<br/>
 어떤 서브시스템에 대한 간단한 인터페이스를 제공하기 위한 용도.<br/>
 퍼사드에서 고수준 인터페이스를 정의하기 때문에 서브시스템을 더 쉽게 사용할 수 있다.<br/>
@@ -92,8 +93,10 @@ https://jusungpark.tistory.com/7?category=630296 <br/>
 객체를 만들어내는 공장을 만드는 패턴.<br/>
 (1) 팩토리 메소드 패턴<br/>
 클래스의 인스턴스를 만드는 일을 서브 클래스에게 맡기는 것.<br/>
+생성할 객체의 클래스를 국한하지 않고 객체를 생성한다.<br/>
 (2) 추상 팩토리 패턴<br/>
 인터페이스를 이용하여 서로 연관된, 또는 의존하는 객체를 구상 클래스를 지정하지 않고 생성하는 것.<br/>
+동일한 주제의 다른 팩토리를 묶어준다. <br/>
 <br/>
 => factory 패키지 참조.<br/>
 factoryMethod 패키지와 재료 팩토리가 추가된 abstractFactory 패키지에서 <br/>
@@ -251,6 +254,7 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 
 ## 15. 브리지 패턴 (Bridge Pattern)
 구현부에서 추상층을 분리하여 각자 독립적으로 변형할 수 있게 하는 패턴.<br/>
+추상화와 구현을 분리해 둘을 각각 따로 발전시킬 수 있다.<br/>
 두 클래스 간의 강한 결합을 제거하기 위해서 사요하는 패턴이다.<br/>
 두 클래스 모두 추상화된 상위 클래스 또는 인터페이스를 가지게 되고, 의존성은 상위 타입간에만 이루어지게 된다.<br/>
 이를 통해 실제 의존성이 발생하더라도 서로의 구현체는 알 수 없도록 한다.<br/>
@@ -278,6 +282,7 @@ https://gyrfalcon.tistory.com/entry/Adapter-vs-Bridge-Composite-vs-Decorator-vs-
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
+생성(construction)과 표기(representation)를 분리해 복잡한 객체를 생성한다.<br/>
 객체 생성 알고리즘과 조립 방법을 분리하는 것이 목적.<br/>
 코드 읽기/유지보수가 편해짐.<br/>
 생성자 인자가 많을 때는 빌더 패턴을 고려.<br/>
@@ -300,6 +305,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 <br/><br/>
 
 ## 18. 플라이웨이트 패턴 (Flyweight Pattern)
+다수의 유사한 객체를 생성 및 조작하는 비용을 절감할 수 있다.<br/>
 데이터를 공유하여 메모리를 절약하는 패턴으로 공통으로 사용되는 객체는 한번만 생성되고 공유 풀(Pool)로 관리, 사용된다.<br/>
 객체의 내부에서 참조하는 객체를 직접 만드는 것이 아니라,<br/>
 없다면 만들고, 만들어져 있다면 객체를 공유하는 식으로 객체를 공유하는 식으로 객체를 구성하는 방법이다.<br/>
@@ -386,6 +392,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 <br/><br/>
 
 ## 22. 프로토타입 패턴 (Prototype Pattern)
+기존 객체를 복제하여 객체를 생성한다.<br/>
 <br/>
 => prototype 패키지 참조.<br/>
 <br/><br/>
