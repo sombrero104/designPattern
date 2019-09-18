@@ -61,6 +61,7 @@ https://meylady.tistory.com/58 <br/>
 <br/><br/>
 
 ## 3. 퍼사드 패턴 (Facade Pattern)
+![facade](./images/facade.jpg)<br/>
 많은 분량의 코드에 접근할 수 있는 단순한 인터페이스를 제공한다.<br/>
 인터페이스를 간단하게 바꿈. (for 간편함)<br/>
 어떤 서브시스템에 대한 간단한 인터페이스를 제공하기 위한 용도.<br/>
