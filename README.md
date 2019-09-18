@@ -38,6 +38,7 @@ https://jusungpark.tistory.com/24 <br/>
 <br/><br/>
 
 ## 2. 프록시 패턴 (Proxy Pattern)
+![proxy](./images/proxy.png)<br/>
 클라이언트에서 프록시 클래스를 통해 간접적으로 주체 클래스를 사용하는 방식.<br/>
 프록시가 대리자로써 일을 처리하고 완료되면 결과를 알려주는 패턴.<br/>
 프록시의 의미는 "대리자"라는 의미이다.<br/>
