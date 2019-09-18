@@ -190,6 +190,7 @@ https://gyrfalcon.tistory.com/entry/Adapter-vs-Bridge-Composite-vs-Decorator-vs-
 <br/><br/>
 
 ## 10. 이터레이터 패턴 (Iterator Pattern)
+![iterator](./images/iterator.png)<br/>
 반복이 필요한 자료구조를 모두 동일한 인터페이스를 통해 접근할 수 있도록<br/>
 메소드를 이용하여 자료구조를 활용할 수 있도록 해준다.<br/>
 컬렉션 구현 방법을 노출시키지 않으면서도 그 집합체 안에 들어있는 모든 항목에 접근할 수 있는 방법을 제공한다.<br/>
