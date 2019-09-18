@@ -205,6 +205,7 @@ https://jusungpark.tistory.com/25?category=630296 <br/>
 <br/><br/>
 
 ## 11. 커맨드 패턴 (Command Pattern)
+![command](./images/command.gif)<br/>
 여러 명령어를 각각 구현하는 것이 아닌 하나의 추상 클래스에 메소드 하나를 만들고<br/>
 각 명령이 들어오면 그에 맞는 서브 클래스가 선택되어 실행되는 것.<br/>
 요구사항을 객체로 캡슐화 할 수 있으며, 매개변수를 써서 여러가지 다른 요구사항을 집어넣을 수 있다.<br/>
