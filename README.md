@@ -230,6 +230,7 @@ https://jusungpark.tistory.com/18?category=630296 <br/>
 <br/><br/>
 
 ## 12. 옵저버 패턴 (Observer Patter)
+![observer](./images/observer.png)<br/>
 어떤 클래스에 변화가 일어났을 때, 이를 감지하여 다른 클래스에 통보해 주는 것.<br/>
 한 객체의 상태가 바뀌면 그 객체에 의존하는 다른 객체들한테 연락이 가고 <br/>
 자동으로 내용이 갱신되는 방식으로 일대다(one-to-many) 의존성을 정의한다.<br/>
