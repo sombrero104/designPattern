@@ -1,7 +1,5 @@
 package facade;
 
-import javax.sound.midi.SoundbankResource;
-
 /**
  * 퍼사드 패턴 (Facade Pattern)
  * 어떤 서브시스템에 대한 간단한 인터페이스를 제공하기 위한 용도.
