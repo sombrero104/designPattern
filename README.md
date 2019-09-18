@@ -12,13 +12,14 @@ https://ko.wikipedia.org/wiki/%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4_(%E
 결합도는 낮고, 응집도는 높을수록 좋다.
 <br/><br/><br/>
 
-![design_patterns_01](./design_patterns_01.png)<br/>
-![design_patterns_02](./design_patterns_02.png)<br/>
-![design_patterns_03](./design_patterns_03.png)<br/>
-![design_patterns_04](./design_patterns_04.png)<br/>
+![design_patterns_01](./images/design_patterns_01.png)<br/>
+![design_patterns_02](./images/design_patterns_02.png)<br/>
+![design_patterns_03](./images/design_patterns_03.png)<br/>
+![design_patterns_04](./images/design_patterns_04.png)<br/>
 <br/><br/>
 
 ## 1. 템플릿 메소드 패턴 (Template Method Pattern)
+![template_method](./images/template_method.png)<br/>
 상위 클래스에서는 추상적으로 표현하고 그 구체적인 내용은 하위 클래스에서 결정되는 디자인 패턴.<br/>
 메소드에서 알고리즘의 골격을 정의한다.<br/>
 알고리즘의 여러 단계 중 일부는 서브클래스에서 구현할 수 있다.<br/>
