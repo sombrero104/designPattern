@@ -119,7 +119,7 @@ https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abs
 <br/><br/>
 
 ## 7. 어댑터 패턴 (Adapter Pattern)
-![adapter](./images/adapter.png)<br/>
+![adapter](./images/adapter.gif)<br/>
 한 인터페이스를 다른 인터페이스로 변환 (for 호환성)<br/>
 인터페이스를 변경해서 클라이언트에서 필요로 하는 인터페이스로 적응시키기 위한 용도.<br/>
 어댑터를 이용하면 인터페이스 호환성 문제 때문에 같이 쓸 수 없는 클래스들을 연결해서 쓸 수 있다.<br/>
