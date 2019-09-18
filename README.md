@@ -106,6 +106,7 @@ https://jusungpark.tistory.com/7?category=630296 <br/>
 생성할 객체의 클래스를 국한하지 않고 객체를 생성한다.<br/>
 <br/>
 ### (2) 추상 팩토리 패턴<br/>
+![abstract_factory](./images/abstract_factory.png)<br/>
 인터페이스를 이용하여 서로 연관된, 또는 의존하는 객체를 구상 클래스를 지정하지 않고 생성하는 것.<br/>
 동일한 주제의 다른 팩토리를 묶어준다. <br/>
 <br/>
