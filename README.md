@@ -143,6 +143,7 @@ https://jusungpark.tistory.com/9?category=630296 <br/>
 <br/><br/>
 
 ## 9. 컴포지트 패턴 (Composite Pattern)
+![composite](./images/composite.png)<br/>
 객체들을 트리 구조로 구성하여 부분과 전체를 나타내는 계층구조로 만들 수 있다.<br/>
 클라이언트에서 개별 객체와 다른 객체들로 구성된 복합객체(composite)를 똑같은 방법으로 다룰 수 있다.<br/>
 식당 메뉴를 예로들어 생각해본다면 중첩되어 있는 메뉴 그룹과 메뉴 항목을 똑같은 구조내에서 처리할 수 있게끔 하는 것이다.<br/>
