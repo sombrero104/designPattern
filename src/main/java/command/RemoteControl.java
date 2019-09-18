@@ -1,5 +1,9 @@
 package command;
 
+/**
+ * Invoker
+ * 인보커.
+ */
 public class RemoteControl {
     Command[] onCommands;
     Command[] offCommands;

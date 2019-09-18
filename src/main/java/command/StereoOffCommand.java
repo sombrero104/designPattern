@@ -1,6 +1,7 @@
 package command;
 
 /**
+ * Concrete Command
  * 커맨드.
  * 스테레오를 끄는 명령.
  */

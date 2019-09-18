@@ -1,6 +1,7 @@
 package command;
 
 /**
+ * Concrete Command
  * 커맨드.
  * 불을 켜는 명령.
  */

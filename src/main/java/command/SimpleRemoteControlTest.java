@@ -1,6 +1,7 @@
 package command;
 
 /**
+ * Client
  * 클라이언트.
  * SimpleRemoteControl 인보커를 실행시키는 클라이언트.
  */

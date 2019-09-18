@@ -1,5 +1,9 @@
 package command;
 
+/**
+ * Concrete Command
+ * 매크로 커맨드.
+ */
 public class MacroCommand implements Command {
     Command[] commands;
 

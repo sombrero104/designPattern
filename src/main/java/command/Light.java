@@ -1,6 +1,7 @@
 package command;
 
 /**
+ * Receiver
  * 리시버.
  * 실제 불을 켜는 방법을 알고 있는 리시버.
  */

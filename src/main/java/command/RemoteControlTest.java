@@ -1,5 +1,9 @@
 package command;
 
+/**
+ * Client
+ * 클라이언트.
+ */
 public class RemoteControlTest {
 
     public static void main(String[] args) {
