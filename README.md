@@ -87,6 +87,7 @@ https://jusungpark.tistory.com/16?category=630296 <br/>
 <br/><br/>
 
 ## 5. 전략 패턴 (Strategy Pattern)
+![strategy](./images/strategy.gif)<br/>
 실행 중에 알고리즘을 선택할 수 있게 하는 패턴.<br/>
 알고리즘군을 정의하고 각각 캡슐화하여 교환해서 사용할 수 있도록 만든다.<br/>
 스트래티지 패턴을 활용하면 알고리즘을 사용하는 클라이언트와는 독립적으로 알고리즘을 변경할 수 있다.<br/>
