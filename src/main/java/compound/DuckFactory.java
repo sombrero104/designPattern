@@ -1,5 +1,9 @@
 package compound;
 
+/**
+ * Concrete Factory
+ * (Abstract Factory Pattern)
+ */
 public class DuckFactory extends AbstractDuckFactory {
 
     @Override

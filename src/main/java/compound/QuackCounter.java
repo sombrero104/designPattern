@@ -1,5 +1,9 @@
 package compound;
 
+/**
+ * Concrete Decorator
+ * (Decorator Pattern)
+ */
 public class QuackCounter implements Quackable {
     private Quackable quackable;
     private static int numberOfQuacks;

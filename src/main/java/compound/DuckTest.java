@@ -3,6 +3,7 @@ package compound;
 import strategy.Quack;
 
 /**
+ *
  * 컴파운드 패턴 (Compound Pattern)
  *
  * - 오리에 적용될 패턴.
@@ -32,6 +33,11 @@ import strategy.Quack;
  *      Observable
  *      Observer
  *
+ *
+ */
+
+/**
+ * Client
  */
 public class DuckTest {
 

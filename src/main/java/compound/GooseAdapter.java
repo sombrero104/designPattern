@@ -1,5 +1,9 @@
 package compound;
 
+/**
+ * Concrete Adapter
+ * (Adapter Pattern)
+ */
 public class GooseAdapter implements Quackable {
     Goose goose;
     Observable observable;

@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Composite
+ * (Composite Pattern)
+ */
 public class Flock implements Quackable {
     List<Quackable> quackableList = new ArrayList<>();
     Observable observable;

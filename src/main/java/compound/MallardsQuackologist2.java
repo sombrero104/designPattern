@@ -1,5 +1,9 @@
 package compound;
 
+/**
+ * Concrete Observer
+ * (Observer Pattern)
+ */
 public class MallardsQuackologist2 implements Observer {
 
     @Override

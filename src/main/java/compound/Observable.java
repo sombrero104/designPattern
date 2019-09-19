@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Subject
+ * (Observer Pattern)
+ */
 public class Observable implements QuackObservable {
     List<Observer> observerList = new ArrayList<>();
     QuackObservable quackObservable;

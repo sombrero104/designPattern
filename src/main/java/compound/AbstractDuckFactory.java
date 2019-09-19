@@ -1,5 +1,9 @@
 package compound;
 
+/**
+ * Abstract Factory
+ * (Abstract Factory Pattern)
+ */
 public abstract class AbstractDuckFactory {
 
     public abstract Quackable createMallardDuck();
