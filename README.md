@@ -292,6 +292,8 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 이렇게 되면 두 상위 타입을 구현하는 구현체들은 변경이 가능한 상태가 된다.<br/>
 <br/>
 => bridge 패키지 참조.<br/>
+![bridge_test](./images/bridge_test.jpg)<br/>
+https://www.tutorialspoint.com/design_pattern/bridge_pattern.htm <br/>
 https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4 <br/>
 <br/>
 ### * 어댑터 패턴(Adapter Pattern)과 브리지 패턴(Bridge Pattern)의 차이

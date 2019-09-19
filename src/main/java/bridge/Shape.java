@@ -1,9 +1,14 @@
 package bridge;
 
-public interface Shape {
+public abstract class Shape {
+    protected  DrawingAPI drawingAPI;
 
-    public void draw();
+    public Shape(DrawingAPI drawingAPI) {
+        this.drawingAPI = drawingAPI;
+    }
 
-    public void resizeByPercentage(double percentage);
+    public abstract void draw();
+
+    public abstract void resizeByPercentage(double percentage);
 
 }
