@@ -284,6 +284,7 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 <br/><br/>
 
 ## 15. 브리지 패턴 (Bridge Pattern)
+![bridge](./images/bridge.png)<br/>
 구현부에서 추상층을 분리하여 각자 독립적으로 변형할 수 있게 하는 패턴.<br/>
 추상화와 구현을 분리해 둘을 각각 따로 발전시킬 수 있다.<br/>
 두 클래스 간의 강한 결합을 제거하기 위해서 사요하는 패턴이다.<br/>
@@ -292,7 +293,7 @@ http://wiki.gurubee.net/pages/viewpage.action?pageId=1507417 <br/>
 이렇게 되면 두 상위 타입을 구현하는 구현체들은 변경이 가능한 상태가 된다.<br/>
 <br/>
 => bridge 패키지 참조.<br/>
-![bridge_test](./images/bridge_test.jpg)<br/>
+![bridge_test](./images/bridge_test.png)<br/>
 https://www.tutorialspoint.com/design_pattern/bridge_pattern.htm <br/>
 https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4 <br/>
 <br/>
