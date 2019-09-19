@@ -330,6 +330,7 @@ https://johngrib.github.io/wiki/builder-pattern <br/>
 ## 17. 역할 사슬 패턴 (Chain Of Responsibility Pattern)
 ![chain](./images/chain.png)<br/>
 여러 개의 객체 중에서 어떤 것이 요구사항을 처리할 수 있는지 사전에 알 수 없을 때 사용.<br/>
+<br/>
 ![chain_02](./images/chain_02.png)<br/>
 요청 처리가 들어오면 그것을 수신한 객체가 자신이 처리할 수 없을 때 다음 객체에게 문제를 넘김으로써<br/>
 최종적으로 요청을 처리할 수 있는 객체에 의해 처리가 가능하도록 하는 패턴.<br/>
