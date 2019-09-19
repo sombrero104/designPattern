@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/CountingDuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/DuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/DuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/Flock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/Flock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/GooseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/GooseAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/Observable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/QuackCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/QuackCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/QuackObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/QuackObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/compound/Quackologist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compound/Quackologist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,100 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/MallardsQuackologist2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/Observable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/Quackable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/QuackCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/QuackObservable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/Quackologist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/RedHeadDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/compound/RubberDuck.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="231">
+              <caret line="265" column="22" selection-start-line="265" selection-start-column="22" selection-end-line="265" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -189,7 +88,6 @@
         <option value="$PROJECT_DIR$/src/main/java/state/state/TVStartState.java" />
         <option value="$PROJECT_DIR$/src/main/java/state/state/TVStopState.java" />
         <option value="$PROJECT_DIR$/src/main/java/state/notState/TVRemoteBasic.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/compound/DuckTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/Observable.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java" />
@@ -203,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/main/java/compound/QuackCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/QuackObservable.java" />
         <option value="$PROJECT_DIR$/src/main/java/compound/Quackologist.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -237,6 +136,11 @@
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -422,15 +326,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2594" y="23" width="1523" height="1006" extended-state="0" />
+    <frame x="2125" y="23" width="1523" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.18973666" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.18973666" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4984202" visible="true" weight="0.285558" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4984202" visible="true" weight="0.285558" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50157976" side_tool="true" weight="0.3030647" />
       <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4992126" weight="0.3280363" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4992126" weight="0.3291714" />
@@ -770,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="253" column="23" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/compound/AbstractDuckFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -908,6 +805,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="265" column="22" selection-start-line="265" selection-start-column="22" selection-end-line="265" selection-end-column="22" />
         </state>
       </provider>
     </entry>
