@@ -362,6 +362,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 하지만 나무 타입(30bytes)을 2개만 만들어서 사용하면 숲을 그리는데에 사용되는 용량을 7MB로 절약할 수 있다.
 </pre>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
+https://en.wikipedia.org/wiki/Flyweight_pattern <br/>
 <br/>
 ### * 플라이웨이트 패턴(Flyweight Pattern)을 사용하는 자바의 String
 두 개 이상의 같은 문자열이 코드에 정의되어 있더라도 String pool에는 하나만 저장되고 그 곳을 참조하는 방식.<br/>
