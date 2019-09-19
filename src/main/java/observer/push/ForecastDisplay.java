@@ -1,5 +1,8 @@
 package observer.push;
 
+/**
+ * Concrete Observer
+ */
 public class ForecastDisplay implements Observer, DisplayElement {
     private float tempterature;
     private float humidity;

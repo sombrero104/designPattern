@@ -3,6 +3,9 @@ package observer.push;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Concrete Subject
+ */
 public class WeatherData implements Subject {
     private List<Observer> observerList;
     private float temperature;

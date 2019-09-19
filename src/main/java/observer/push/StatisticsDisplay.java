@@ -1,5 +1,8 @@
 package observer.push;
 
+/**
+ * Concrete Observer
+ */
 public class StatisticsDisplay implements Observer, DisplayElement {
     private float temperature;
     private float humidity;

@@ -1,5 +1,8 @@
 package observer.push;
 
+/**
+ * Client
+ */
 public class WeatherTest {
 
     public static void main(String[] args) {

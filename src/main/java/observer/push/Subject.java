@@ -1,5 +1,8 @@
 package observer.push;
 
+/**
+ * Subject
+ */
 public interface Subject {
 
     void registerObserver(Observer observer);
