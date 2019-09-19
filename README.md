@@ -265,7 +265,7 @@ https://www.journaldev.com/1751/state-design-pattern-java <br/>
 반복적으로 생길 수 있는 문제를 해결하기 위한 용도로 두 개 이상의 패턴을 결합하여 사용하는 것을 뜻함.<br/>
 <br/>
 => compound 패키지 참조. <br/>
-![compound](./images/compound.png)<br/>
+![compound](./images/compound.jpeg)<br/>
 <pre>
 - 오리에 적용될 패턴.
 (1) 처음에 수많은 Quackable들이 존재.
