@@ -1,5 +1,8 @@
 package bridge;
 
+/**
+ * Client
+ */
 public class DrawingTest {
 
     public static void main(String[] args) {

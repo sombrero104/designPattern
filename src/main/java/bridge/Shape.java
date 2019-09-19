@@ -1,5 +1,8 @@
 package bridge;
 
+/**
+ * Abstraction
+ */
 public abstract class Shape {
     protected  DrawingAPI drawingAPI;
 

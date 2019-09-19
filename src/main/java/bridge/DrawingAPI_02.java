@@ -1,5 +1,8 @@
 package bridge;
 
+/**
+ * Concrete Implementor
+ */
 public class DrawingAPI_02 implements DrawingAPI {
 
     @Override

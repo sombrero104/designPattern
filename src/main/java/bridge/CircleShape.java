@@ -1,5 +1,8 @@
 package bridge;
 
+/**
+ * Refined Abstraction
+ */
 public class CircleShape extends Shape {
     private double x, y, radius;
 
