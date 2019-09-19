@@ -316,6 +316,7 @@ https://gyrfalcon.tistory.com/entry/Adapter-vs-Bridge-Composite-vs-Decorator-vs-
 <br/><br/>
 
 ## 16. 빌더 패턴 (Builder Pattern)
+![builder](./images/builder.png)<br/>
 생성(construction)과 표기(representation)를 분리해 복잡한 객체를 생성한다.<br/>
 객체 생성 알고리즘과 조립 방법을 분리하는 것이 목적.<br/>
 코드 읽기/유지보수가 편해짐.<br/>
