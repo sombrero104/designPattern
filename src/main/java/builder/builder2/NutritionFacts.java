@@ -1,5 +1,8 @@
-package builder;
+package builder.builder2;
 
+/**
+ * Product
+ */
 public class NutritionFacts {
     private final int servingSize;
     private final int servings;
@@ -10,7 +13,7 @@ public class NutritionFacts {
     }
 
     /**
-     * Builder 클래스.
+     * Builder
      */
     public static class Builder {
         // Required parameter (필수 인자)

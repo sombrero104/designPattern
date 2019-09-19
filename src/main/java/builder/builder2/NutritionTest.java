@@ -1,5 +1,8 @@
-package builder;
+package builder.builder2;
 
+/**
+ * Client
+ */
 public class NutritionTest {
 
     public static void main(String[] args) {
