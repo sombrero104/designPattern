@@ -1,5 +1,8 @@
 package chain.chain1;
 
+/**
+ *
+ */
 public class ReceiverTest {
 
     public static void main(String[] args) {
