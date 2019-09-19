@@ -1,5 +1,6 @@
 package flyweight.flyweight2;
 
+@FunctionalInterface
 public interface Order {
 
     void serve();
