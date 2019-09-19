@@ -1,5 +1,8 @@
 package chain.chain2;
 
+/**
+ * Client
+ */
 public class LoggerTest {
 
     public static void main(String[] args) {

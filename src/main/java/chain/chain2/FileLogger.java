@@ -1,5 +1,8 @@
 package chain.chain2;
 
+/**
+ * Concrete Handler
+ */
 public class FileLogger extends AbstractLogger {
 
     public FileLogger(int level) {

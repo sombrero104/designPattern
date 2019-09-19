@@ -1,7 +1,7 @@
 package chain.chain1;
 
 /**
- *
+ * Client
  */
 public class ReceiverTest {
 

@@ -1,5 +1,8 @@
 package chain.chain1;
 
+/**
+ * Concrete Handler
+ */
 public class EvenReceiver extends Receiver {
 
     public EvenReceiver(String receiverName) {

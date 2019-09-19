@@ -1,5 +1,8 @@
 package chain.chain2;
 
+/**
+ * Handler
+ */
 public abstract class AbstractLogger {
     public static int INFO = 1;
     public static int DEBUG = 2;

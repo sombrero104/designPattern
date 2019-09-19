@@ -1,5 +1,8 @@
 package chain.chain3;
 
+/**
+ * Client
+ */
 public class DispenseTest {
 
     public static void main(String[] args) {

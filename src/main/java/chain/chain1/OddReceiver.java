@@ -1,5 +1,8 @@
 package chain.chain1;
 
+/**
+ * Concrete Handler
+ */
 public class OddReceiver extends Receiver {
 
     public OddReceiver(String receiverName) {

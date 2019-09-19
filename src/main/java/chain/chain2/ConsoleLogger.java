@@ -1,5 +1,8 @@
 package chain.chain2;
 
+/**
+ * Concrete Handler
+ */
 public class ConsoleLogger extends AbstractLogger {
 
     public ConsoleLogger(int level) {

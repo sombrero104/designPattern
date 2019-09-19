@@ -1,5 +1,8 @@
 package chain.chain3;
 
+/**
+ * Concrete Handler
+ */
 public class Dollar1Dispenser implements DispenseChain {
     private DispenseChain nextChain;
 

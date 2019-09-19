@@ -1,5 +1,8 @@
 package chain.chain1;
 
+/**
+ * Handler
+ */
 public abstract class Receiver {
     protected String receiverName;
     private Receiver nextReceiver;
