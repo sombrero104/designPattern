@@ -251,6 +251,7 @@ https://jusungpark.tistory.com/8?category=630296 <br/>
 <br/><br/>
 
 ## 13. 스테이트 패턴 (State Pattern)
+![state](./images/state.png)<br/>
 동일한 동작을 객체의 상태에 따라 다르게 처리해야 할 때 사용하는 패턴.<br/>
 일련의 규칙에 따라 객체의 상태(State)를 변화시켜, 객체가 할 수 있는 행위를 바꾸는 패턴.<br/>
 <br/>
