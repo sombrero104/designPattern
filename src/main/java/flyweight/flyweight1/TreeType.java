@@ -1,7 +1,10 @@
-package flyweight;
+package flyweight.flyweight1;
 
 import java.awt.*;
 
+/**
+ * Flyweight
+ */
 public class TreeType {
     private String name;
     private Color color;

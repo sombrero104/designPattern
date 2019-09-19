@@ -1,10 +1,13 @@
-package flyweight;
+package flyweight.flyweight1;
 
 import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TreeFactory {
+/**
+ * Flyweight Factory
+ */
+public class TreeTypeFactory {
     static Map<String, TreeType> treeTypeMap = new HashMap<>();
 
     public static TreeType getTreeType(String name, Color color, String otherTreeData) {

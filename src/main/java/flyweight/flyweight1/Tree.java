@@ -1,4 +1,4 @@
-package flyweight;
+package flyweight.flyweight1;
 
 import java.awt.*;
 

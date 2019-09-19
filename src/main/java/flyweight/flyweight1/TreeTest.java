@@ -1,10 +1,14 @@
-package flyweight;
+package flyweight.flyweight1;
 
 import java.awt.*;
 
 /**
  * 애플릿 사용.
  * 애플릿은 자바 9버전부터 사라짐. (Java Web Start로 대신 사용해야 함.)
+ */
+
+/**
+ * Client
  */
 public class TreeTest {
     private static int CANVAS_SIZE = 500;
