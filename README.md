@@ -264,9 +264,10 @@ https://www.journaldev.com/1751/state-design-pattern-java <br/>
 패턴 섞어 쓰기.<br/>
 반복적으로 생길 수 있는 문제를 해결하기 위한 용도로 두 개 이상의 패턴을 결합하여 사용하는 것을 뜻함.<br/>
 #### ** 대표적인 컴파운드 패턴 사용 예 => MVC 모델
+![compound_mvc](./images/compound_mvc.png)<br/>
 https://m.blog.naver.com/PostView.nhn?blogId=cestlavie_01&logNo=221039978744&proxyReferer=https%3A%2F%2Fwww.google.com%2F <br/>
 https://secretroute.tistory.com/entry/Head-First-Design-Patterns-%EC%A0%9C12%EC%9E%A5-Compound-%ED%8C%A8%ED%84%B4 <br/>
-<br/>
+<br/><br/>
 => compound 패키지 참조. <br/>
 ![compound](./images/compound.jpg)<br/>
 <pre>
