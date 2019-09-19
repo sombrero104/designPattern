@@ -1,5 +1,8 @@
 package state.notState;
 
+/**
+ * No Use State Pattern
+ */
 public class TVRemoteBasic {
 
     private String state = "";

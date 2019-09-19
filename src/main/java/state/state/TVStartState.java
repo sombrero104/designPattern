@@ -1,5 +1,8 @@
 package state.state;
 
+/**
+ * Concrete State
+ */
 public class TVStartState implements State {
 
     @Override
