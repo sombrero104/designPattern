@@ -4,6 +4,11 @@ import java.util.WeakHashMap;
 
 public class CoffeeFlavour {
     private final String name;
+    /**
+     * WeakHashMap 참고.
+     *
+     * https://www.baeldung.com/java-weakhashmap
+     */
     private static final WeakHashMap<String, CoffeeFlavour> CACHE = new WeakHashMap<>();
 
     public CoffeeFlavour(String name) {
@@ -12,6 +17,14 @@ public class CoffeeFlavour {
 
     public static CoffeeFlavour intern(String name) {
         synchronized (CACHE) {
+            /**
+             * computeIfAbsent()
+             * 맵에서 key에 해당하는 value가 있으면 반환하고
+             * 없으면 새로 만든다.
+             *
+             * http://tech.javacafe.io/2018/12/03/HashMap
+             * https://namocom.tistory.com/486
+             */
             return CACHE.computeIfAbsent(name, CoffeeFlavour::new);
         }
     }
