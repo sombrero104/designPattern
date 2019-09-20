@@ -35,7 +35,7 @@ public class CoffeeFlavour {
 
     /**
      * 맵 사이즈 반환
-     * (저장된 CoffeeFlavour 수)
+     * (저장된 CoffeeFlavour 객체 수)
      */
     public static int falvoursInCache() {
         synchronized (CACHE) {
