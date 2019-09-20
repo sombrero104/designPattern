@@ -343,6 +343,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 <br/><br/>
 
 ## 18. 플라이웨이트 패턴 (Flyweight Pattern)
+![flyweight](./images/flyweight.png)<br/>
 다수의 유사한 객체를 생성 및 조작하는 비용을 절감할 수 있다.<br/>
 데이터를 공유하여 메모리를 절약하는 패턴으로 공통으로 사용되는 객체는 한번만 생성되고 공유 풀(Pool)로 관리, 사용된다.<br/>
 객체의 내부에서 참조하는 객체를 직접 만드는 것이 아니라,<br/>
@@ -356,11 +357,13 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Chain-of-r
 이런 경우 플라이웨이트 패턴을 사용해 하나의 리소스를 여러 객체에서 공유하여 사용하는 방식으로 프로그래밍이 작성된다.<br/>
 <br/>
 => flyweight 패키지 참조.<br/>
+![flyweight_test](./images/flyweight_test.png)<br/>
 <pre>
 - 숲 그리기 코드 (자바 8버전 이하에서만 실행 가능. 9부터 애플릿이 사라짐.)
 나무(8bytes) 1,000,000개에 대해 각각 나무 타입(30bytes)을 만들게 되면 용량이 36MB를 차지하게 된다.
 하지만 나무 타입(30bytes)을 2개만 만들어서 사용하면 숲을 그리는데에 사용되는 용량을 7MB로 절약할 수 있다.
 </pre>
+https://refactoring.guru/design-patterns/flyweight <br/>
 https://m.blog.naver.com/2feelus/220669069127 <br/>
 https://en.wikipedia.org/wiki/Flyweight_pattern <br/>
 <br/>
