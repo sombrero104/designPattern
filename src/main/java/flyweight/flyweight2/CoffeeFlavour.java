@@ -2,6 +2,10 @@ package flyweight.flyweight2;
 
 import java.util.WeakHashMap;
 
+/**
+ * Flyweight
+ * (static 부분은 Flyweight Factory 역할.)
+ */
 public class CoffeeFlavour {
     private final String name;
     /**
@@ -29,6 +33,10 @@ public class CoffeeFlavour {
         }
     }
 
+    /**
+     * 맵 사이즈 반환
+     * (저장된 CoffeeFlavour 수)
+     */
     public static int falvoursInCache() {
         synchronized (CACHE) {
             return CACHE.size();
