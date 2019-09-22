@@ -435,6 +435,7 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Mediator-p
 Ctrl + z 와 같은 undo 기능을 개발할 때 유용한 패턴.<br/>
 클래스 설계 관점에서 객체의 정보를 저장.<br/>
 객체의 상태 정보를 저장하고 사용자의 필요에 의하여 원하는 시점의 상태로 복원할 수 있는 패턴.<br/>
+![memento](./images/memento.png)<br/>
 <br/>
 => memento 패키지 참조.<br/>
 https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A9%98%ED%86%A0_%ED%8C%A8%ED%84%B4 <br/>
