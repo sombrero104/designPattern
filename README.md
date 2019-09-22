@@ -452,7 +452,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 
 ## 22. 프로토타입 패턴 (Prototype Pattern)
 ![prototype](./images/prototype.png)<br/>
-기존 객체를 복제하여 객체를 생성한다.<br/>
+기존 객체를 복제하여 객체를 생성한다. (기본적으로는 메모리를 복사.)<br/>
 <br/>
 ![prototype_02](./images/prototype_02.png)<br/>
 생성한 객체들의 타입이 프로토타입인 인스턴스로부터 결정되도록 하며, 인스턴스는 새 객체를 만들기 위해 자신을 복제(clone)하게 된다. <br/>
