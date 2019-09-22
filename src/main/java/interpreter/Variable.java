@@ -2,6 +2,9 @@ package interpreter;
 
 import java.util.Map;
 
+/**
+ * Terminal Expression
+ */
 public class Variable implements Expression {
     private String name;
 

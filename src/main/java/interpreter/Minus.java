@@ -2,6 +2,9 @@ package interpreter;
 
 import java.util.Map;
 
+/**
+ * Terminal Expression
+ */
 public class Minus implements Expression {
     Expression leftOperand;
     Expression rightOperand;

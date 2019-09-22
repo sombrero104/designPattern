@@ -3,6 +3,9 @@ package interpreter;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * NonTerminal Expression
+ */
 public class Evaluator implements Expression {
     private Expression syntaxTree;
 
