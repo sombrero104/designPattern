@@ -460,8 +460,11 @@ https://lktprogrammer.tistory.com/65 <br/>
 객체를 생성(create)하는 고유의 비용이 주어진 응용 프로그램 상황에 있어서 불가피하게 비용이 매우 클 때,<br/>
 이 비용을 감내하지 않을 수 있게 해준다.<br/>
 <br/>
+
 ![prototype_02](./images/prototype_02.png)<br/>
+
 * 자바 Object의 clone()
+
 <br/>
 => prototype 패키지 참조.<br/>
 https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4 <br/>
