@@ -476,7 +476,7 @@ Object.clone() 메소드는 객체 구조를 복사하지만 객체 레퍼런스
 이것을 shallow cloning이라고 하며, <br/>
 레퍼런스로 가리키는 객체까지 모두 복사하는 deep cloning과 구별된다.<br/>
 
-#### * 클로닝 구현
+#### * 자바 Object의 clone() 구현
 단순한 객체의 클로닝은 간단하다.<br/>
 Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, clone() 메소드를 오버라이드한다.<br/>
 새로운 객체의 생성과 객체 구조의 복사를 완전히 지원하는 Object.clone() 메소드를 호출하기 위하여<br/>
