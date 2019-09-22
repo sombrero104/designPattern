@@ -461,7 +461,6 @@ https://lktprogrammer.tistory.com/65 <br/>
 - 프로토타입 패턴은 새로운 객체는 일반적인 방법(예를 들어, new를 사용해서라든지)으로 <br/>
 객체를 생성(create)하는 고유의 비용이 주어진 응용 프로그램 상황에 있어서 불가피하게 비용이 매우 클 때,<br/>
 이 비용을 감내하지 않을 수 있게 해준다.<br/>
-<br/>
 
 ### * 자바 Object의 clone()
 모든 클래스의 부모인 Object 클래스는 객체의 클로닝을 위한 Object.clone() 메소드를 제공하고 있다.<br/>
@@ -477,10 +476,12 @@ Object.clone() 메소드는 객체 구조를 복사하지만 객체 레퍼런스
 레퍼런스로 가리키는 객체까지 모두 복사하는 deep cloning과 구별된다.<br/>
 
 #### * 자바 Object의 clone() 구현
-단순한 객체의 클로닝은 간단하다.<br/>
-Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, clone() 메소드를 오버라이드한다.<br/>
-새로운 객체의 생성과 객체 구조의 복사를 완전히 지원하는 Object.clone() 메소드를 호출하기 위하여<br/>
-super.clone() 메소드를 호출한다.<br/>
+<pre>
+단순한 객체의 클로닝은 간단하다.
+Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, clone() 메소드를 오버라이드한다.
+새로운 객체의 생성과 객체 구조의 복사를 완전히 지원하는 Object.clone() 메소드를 호출하기 위하여
+super.clone() 메소드를 호출한다.
+</pre>
 
 <br/>
 => prototype 패키지 참조.<br/>
