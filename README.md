@@ -471,8 +471,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 Object.clone() 메소드는 객체 복사의 좋은 시작점으로 객체 구조의 완벽한 복사를 제공한다.<br/>
 그러나 여기에는 몇가지 주의할 문제점이 있는데 바로 객체 레퍼런스의 복사에 관한 문제이다.<br/>
 Object.clone() 메소드는 객체 구조를 복사하지만 객체 레퍼런스의 경우 레퍼런스만 복사한다.<br/>
-즉, 객체 레퍼런스가 가리키고 있는 실제 객체는 복사하지 않는다.<br/>
-이것을 shallow cloning이라고 하며, <br/>
+즉, 객체 레퍼런스가 가리키고 있는 실제 객체는 복사하지 않는다. 이것을 shallow cloning이라고 하며, <br/>
 레퍼런스로 가리키는 객체까지 모두 복사하는 deep cloning과 구별된다.<br/>
 
 #### * 자바 Object의 clone() 구현
@@ -482,6 +481,7 @@ Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, c
 새로운 객체의 생성과 객체 구조의 복사를 완전히 지원하는 Object.clone() 메소드를 호출하기 위하여
 super.clone() 메소드를 호출한다.
 </pre>
+https://javacan.tistory.com/entry/31 <br/>
 
 <br/>
 => prototype 패키지 참조.<br/>
