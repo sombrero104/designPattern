@@ -507,8 +507,7 @@ ArrayList나 HashMap에서 제공하는 clone()을 사용해야 한다.
 </pre>
 https://geunhokim.wordpress.com/2013/06/15/deep-copy-shallow-copy <br/>
 https://en.wikipedia.org/wiki/Primitive_data_type <br/>
-<br/>
-<br/>
+<br/><br/>
 
 ## 23. 비지터 패턴 (Visitor Pattern)
 각 클래스의 데이터 구조로부터 처리 기능을 분리하여 별도의 visitor 클래스를 만들어놓고<br/>
@@ -520,7 +519,3 @@ https://en.wikipedia.org/wiki/Primitive_data_type <br/>
 => visitor 패키지 참조. <br/>
 https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A7%80%ED%84%B0_%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
-
-
-<br/><br/>
-
