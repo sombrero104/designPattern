@@ -461,6 +461,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 - 프로토타입 패턴은 새로운 객체는 일반적인 방법(예를 들어, new를 사용해서라든지)으로 <br/>
 객체를 생성(create)하는 고유의 비용이 주어진 응용 프로그램 상황에 있어서 불가피하게 비용이 매우 클 때, <br/>
 이 비용을 감내하지 않을 수 있게 해준다.<br/>
+<br/>
 => prototype 패키지 참조.<br/>
 https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4 <br/>
 <br/>
