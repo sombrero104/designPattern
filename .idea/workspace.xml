@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0703f2c5-0a00-442d-bc0d-6fa528738d83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/main/java/prototype/CookieMachine.java" />
         <option value="$PROJECT_DIR$/src/main/java/prototype/CoconutCookie.java" />
         <option value="$PROJECT_DIR$/src/main/java/prototype/Cookie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/prototype/CookieTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/prototype/CookieTest.java" />
       </list>
     </option>
   </component>
@@ -112,7 +112,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2168" />
+    <option name="x" value="2226" />
     <option name="y" value="23" />
     <option name="width" value="1397" />
     <option name="height" value="976" />
@@ -321,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2168" y="23" width="1397" height="976" extended-state="0" />
+    <frame x="2269" y="23" width="1397" height="976" extended-state="0" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -789,17 +789,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/prototype/CookieTest.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="58" selection-end-column="11" />
+        <state relative-caret-position="197">
+          <caret line="498" column="67" lean-forward="true" selection-start-line="498" selection-start-column="67" selection-end-line="498" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/prototype/CookieTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        <state relative-caret-position="149">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
         </state>
       </provider>
     </entry>
