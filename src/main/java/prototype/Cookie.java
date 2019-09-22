@@ -1,5 +1,6 @@
 package prototype;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -24,8 +25,10 @@ public class Cookie implements Cloneable {
 
     public Object clone() {
         try {
-            Cookie copy = (Cookie)super.clone();
-            return copy;
+            Cookie cloneCookie = (Cookie)super.clone();
+            cloneCookie.cookieLocation = (Map)((HashMap)this.cookieLocation).clone();
+            cloneCookie.cookieIngredients = (List)((ArrayList)this.cookieIngredients).clone();
+            return cloneCookie;
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
             return null;
