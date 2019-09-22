@@ -461,6 +461,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 이 비용을 감내하지 않을 수 있게 해준다.<br/>
 <br/>
 ![prototype_02](./images/prototype_02.png)<br/>
+* 자바 Object의 clone()
 <br/>
 => prototype 패키지 참조.<br/>
 https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4 <br/>
