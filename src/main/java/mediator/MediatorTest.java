@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * Client
+ */
 public class MediatorTest extends JFrame implements ActionListener {
 
     @Override

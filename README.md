@@ -414,7 +414,9 @@ https://kunoo.tistory.com/entry/%ED%96%89%EC%9C%84-%ED%8C%A8%ED%84%B4-Interprete
 <br/><br/>
 
 ## 20. 중재자 패턴 (미디에이터 패턴, Mediator Pattern)
+![mediator](./images/mediator.png)<br/>
 클래스 간의 복잡한 상호작용을 캡슐화하여 한 클래스에 위임해서 처리하는 패턴.<br/>
+![mediator_02](./images/mediator_02.png)<br/>
 서로 관련된 객체 사이의 복잡한 통신과 제어를 한 곳으로 집중시키고자 할 때 사용.<br/>
 어떻게 객체들의 집합이 상호작용하는지를 함축해놓은 객체를 정의한다.<br/>
 이 패턴은 프로그램의 실행 행위를 변경할 수 있기 때문에 행위 패턴으로 간주된다.<br/>
