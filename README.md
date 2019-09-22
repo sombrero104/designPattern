@@ -403,6 +403,7 @@ https://stackoverflow.com/questions/11189155/is-javas-string-intern-a-flyweight 
 <br/><br/>
 
 ## 19. 인터프리터 패턴 (Interpreter Pattern)
+![interpreter](./images/interpreter.png)<br/>
 인터프리터 패턴은 행동 패턴에 속하며 언어 문법이나 표현을 평가할 수 있는 방법을 제공한다.<br/>
 특정 컨텍스트를 해석하도록 지시하는 표현 인터페이스를 구현하는 것을 포함한다.<br/>
 이 패턴은 SQL 구문 분석, 기호 처리 엔진 등에서 사용된다.<br/>
