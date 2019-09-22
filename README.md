@@ -496,8 +496,8 @@ https://javacan.tistory.com/entry/31 <br/>
 String과 Integer는 원본 값을 변경하면 복제본에는 영향이 없는데
 Map과 List는 원본에 값을 추가 시 복제본도 추가되는 것을 확인할 수 있다.
 
-String과 Integer는 primitive type 복사이고
-Map과 List는 reference type이기 때문인데, 이를 객체의 얕은 복사(Shallow copy)라고 부른다.
+String과 Integer는 primitive type이고, Map과 List는 reference type이기 때문인데
+이를 객체의 얕은 복사(Shallow copy)라고 부른다.
 
 Map과 List도 복사하는 깊은 복사(Deep copy)를 하기 위해서는
 ArrayList나 HashMap에서 제공하는 clone()을 사용해야 한다.
