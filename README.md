@@ -451,6 +451,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 <br/><br/>
 
 ## 22. 프로토타입 패턴 (Prototype Pattern)
+![prototype](./images/prototype.png)<br/>
 기존 객체를 복제하여 객체를 생성한다.<br/>
 <br/>
 => prototype 패키지 참조.<br/>
