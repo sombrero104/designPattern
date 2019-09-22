@@ -476,7 +476,7 @@ Object.clone() 메소드는 객체 구조를 복사하지만 객체 레퍼런스
 레퍼런스로 가리키는 객체까지 모두 복사하는 deep cloning과 구별된다.
 </pre>
 
-#### * 자바 Object의 clone() 구현
+#### 자바 Object의 clone() 구현
 <pre>
 단순한 객체의 클로닝은 간단하다.
 Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, clone() 메소드를 오버라이드한다.
@@ -484,6 +484,7 @@ Cloneable 인터페이스를 구현(implement, 실제로는 상속)한 다음, c
 super.clone() 메소드를 호출한다.
 </pre>
 https://javacan.tistory.com/entry/31 <br/>
+<br/>
 
 ### * 얕은 복사(Shallow copy)와 깊은 복사(Deep copy)
 ![prototype_03](./images/prototype_03.png)<br/>
