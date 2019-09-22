@@ -455,6 +455,7 @@ https://lktprogrammer.tistory.com/65 <br/>
 기존 객체를 복제하여 객체를 생성한다.<br/>
 <br/>
 => prototype 패키지 참조.<br/>
+https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4 <br/>
 <br/><br/>
 
 ## 23. 비지터 패턴 (Visitor Pattern)
