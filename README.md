@@ -510,6 +510,7 @@ https://en.wikipedia.org/wiki/Primitive_data_type <br/>
 <br/><br/>
 
 ## 23. 비지터 패턴 (Visitor Pattern)
+![visitor](./images/visitor.png)<br/>
 각 클래스의 데이터 구조로부터 처리 기능을 분리하여 별도의 visitor 클래스를 만들어놓고<br/>
 해당 클래스의 메소드가 각 클래스를 돌아다니며 특정 작업을 수행하도록 하는 것.<br/>
 알고리즘을 객체 구조에서 분리시키는 디자인 패턴이다.<br/>
