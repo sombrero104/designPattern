@@ -517,5 +517,7 @@ https://en.wikipedia.org/wiki/Primitive_data_type <br/>
 개방-폐쇄 원칙을 적용하는 방법의 하나이다.<br/>
 <br/>
 => visitor 패키지 참조. <br/>
+![visitor_test](./images/visitor_test.png)<br/>
 https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A7%80%ED%84%B0_%ED%8C%A8%ED%84%B4 <br/>
+https://en.wikipedia.org/wiki/Visitor_pattern <br/>
 <br/><br/>
