@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Concrete element
+ */
 public class Engine implements CarElement {
 
     @Override

@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Visitor
+ */
 public interface CarElementVisitor {
 
     void visit(Wheel wheel);

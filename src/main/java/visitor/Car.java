@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Concrete element
+ */
 public class Car implements CarElement {
     CarElement[] carElements;
 

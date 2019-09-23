@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Client
+ */
 public class VisitorTest {
 
     public static void main(String[] args) {

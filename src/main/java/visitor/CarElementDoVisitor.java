@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Concrete visitor
+ */
 public class CarElementDoVisitor implements CarElementVisitor {
 
     @Override

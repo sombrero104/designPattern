@@ -1,5 +1,8 @@
 package visitor;
 
+/**
+ * Concrete element
+ */
 public class Wheel implements CarElement {
     private String name;
 
