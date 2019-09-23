@@ -1,4 +1,10 @@
 package visitor;
 
-public class Engine {
+public class Engine implements CarElement {
+
+    @Override
+    public void accept(CarElementVisitor visitor) {
+        visitor.visit(this);
+    }
+
 }
