@@ -82,6 +82,13 @@ https://jusungpark.tistory.com/23?category=630296 <br/>
 멀티 스레드 환경에서 잘 고려해서 사용해야 한다.<br/>
 (동기화 사용 시 속도 저하 -> 부분적으로만 사용, 혹은 클래스 로딩 시 인스턴스 생성.) <br/>
 <br/>
+#### * volatile
+CPU가 여러개일 때 volatile 변수를 사용하고 있지 않는 MultiThread 어플리케이션에서는 Task를 수행하는 동안 성능 향상을 위해  <br/>
+Main Memory에서 읽은 변수 값을 CPU Cache에 저장하게 됩니다. <br/>
+만약에 Multi Thread환경에서 Thread가 변수 값을 읽어올 때  <br/>
+각각의 CPU Cache에 저장된 값이 다르기 때문에 변수 값 불일치 문제가 발생하게 됩니다. <br/>
+https://nesoy.github.io/articles/2018-06/Java-volatile <br/>
+<br/>
 => singleton 패키지 참조.<br/>
 https://jusungpark.tistory.com/16?category=630296 <br/>
 <br/><br/>
